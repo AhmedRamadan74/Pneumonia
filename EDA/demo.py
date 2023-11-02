@@ -9,13 +9,13 @@ import os
 from PIL import Image
 
 # read data
-death=pd.read_csv(os.path.join(os.getcwd(),"death.csv"))
-risk=pd.read_csv(os.path.join(os.getcwd(),"risk.csv"))
-lower_respiratory_diseases=pd.read_csv(os.path.join(os.getcwd(),"lower_respiratory_diseases.csv"))
-gdp=pd.read_csv(os.path.join(os.getcwd(),"gdp.csv"))
-breastfeeding=pd.read_csv(os.path.join(os.getcwd(),"breastfeeding.csv"))
-careseeking=pd.read_csv(os.path.join(os.getcwd(),"careseeking.csv"))
-vaccine=pd.read_csv(os.path.join(os.getcwd(),"vaccine.csv"))
+death=pd.read_csv(os.path.join(os.getcwd(),"EDA/death.csv"))
+risk=pd.read_csv(os.path.join(os.getcwd(),"EDA/risk.csv"))
+lower_respiratory_diseases=pd.read_csv(os.path.join(os.getcwd(),"EDA/lower_respiratory_diseases.csv"))
+gdp=pd.read_csv(os.path.join(os.getcwd(),"EDA/gdp.csv"))
+breastfeeding=pd.read_csv(os.path.join(os.getcwd(),"EDA/breastfeeding.csv"))
+careseeking=pd.read_csv(os.path.join(os.getcwd(),"EDA/careseeking.csv"))
+vaccine=pd.read_csv(os.path.join(os.getcwd(),"EDA/vaccine.csv"))
 
 #######################################################
 #layout 
