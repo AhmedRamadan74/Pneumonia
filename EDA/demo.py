@@ -24,7 +24,7 @@ st.set_page_config(page_title="Pneumonia",layout="wide")
 st.title("Exploratory Analysis of Pneumonia, By [Ahmed Ramadan](https://www.linkedin.com/in/ahmed-ramadan-18b873230/)")
 
 st.header("Some inforamtion of Pneumonia : ")
-image = Image.open(os.path.join(os.getcwd(),"EDA/_تنزيل.jpeg")
+image = Image.open(os.path.join(os.getcwd(),"EDA/_تنزيل.jpeg"))
 st.image(image, caption='Pneumonia')
 st.markdown("Pneumonia is an infection that inflames the air sacs in one or both lungs.The air sacs may fill with fluid,causing cough with phlegm or pus, fever, chills, and difficulty breathing.")
 st.markdown("Pneumonia can range in seriousness from mild to life-threatening. It is most serious for infants and young children, people older than age 65, and people with health problems or weakened immune systems")
