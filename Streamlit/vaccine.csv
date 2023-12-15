@@ -1,0 +1,1717 @@
+Entity,Region,Code,Year,id,vaccines(PCV3)_among_1_year_olds
+Afghanistan,Asia,AFG,2014,AFG_2014,49
+Afghanistan,Asia,AFG,2015,AFG_2015,65
+Afghanistan,Asia,AFG,2016,AFG_2016,62
+Afghanistan,Asia,AFG,2017,AFG_2017,66
+Afghanistan,Asia,AFG,2018,AFG_2018,69
+Afghanistan,Asia,AFG,2019,AFG_2019,68
+Afghanistan,Asia,AFG,2020,AFG_2020,68
+Africa,Africa,Afr,2008,Afr_2008,0
+Africa,Africa,Afr,2009,Afr_2009,0
+Africa,Africa,Afr,2010,Afr_2010,3
+Africa,Africa,Afr,2011,Afr_2011,12
+Africa,Africa,Afr,2012,Afr_2012,21
+Africa,Africa,Afr,2013,Afr_2013,34
+Africa,Africa,Afr,2014,Afr_2014,48
+Africa,Africa,Afr,2015,Afr_2015,60
+Africa,Africa,Afr,2016,Afr_2016,66
+Africa,Africa,Afr,2017,Afr_2017,69
+Africa,Africa,Afr,2018,Afr_2018,69
+Africa,Africa,Afr,2019,Afr_2019,70
+Africa,Africa,Afr,2020,Afr_2020,68
+Albania,Europe,ALB,2011,ALB_2011,99
+Albania,Europe,ALB,2012,ALB_2012,99
+Albania,Europe,ALB,2013,ALB_2013,99
+Albania,Europe,ALB,2014,ALB_2014,99
+Albania,Europe,ALB,2015,ALB_2015,99
+Albania,Europe,ALB,2016,ALB_2016,98
+Albania,Europe,ALB,2017,ALB_2017,99
+Albania,Europe,ALB,2018,ALB_2018,98
+Albania,Europe,ALB,2019,ALB_2019,96
+Albania,Europe,ALB,2020,ALB_2020,92
+Algeria,Africa,DZA,2016,DZA_2016,61
+Algeria,Africa,DZA,2017,DZA_2017,89
+Algeria,Africa,DZA,2018,DZA_2018,91
+Algeria,Africa,DZA,2019,DZA_2019,91
+Americas,North America,Ame,2008,Ame_2008,28
+Americas,North America,Ame,2009,Ame_2009,34
+Americas,North America,Ame,2010,Ame_2010,51
+Americas,North America,Ame,2011,Ame_2011,69
+Americas,North America,Ame,2012,Ame_2012,77
+Americas,North America,Ame,2013,Ame_2013,79
+Americas,North America,Ame,2014,Ame_2014,83
+Americas,North America,Ame,2015,Ame_2015,85
+Americas,North America,Ame,2016,Ame_2016,82
+Americas,North America,Ame,2017,Ame_2017,82
+Americas,North America,Ame,2018,Ame_2018,82
+Americas,North America,Ame,2019,Ame_2019,82
+Americas,North America,Ame,2020,Ame_2020,76
+Andorra,Europe,AND,2014,AND_2014,93
+Andorra,Europe,AND,2015,AND_2015,92
+Andorra,Europe,AND,2016,AND_2016,92
+Andorra,Europe,AND,2017,AND_2017,98
+Andorra,Europe,AND,2018,AND_2018,94
+Andorra,Europe,AND,2019,AND_2019,96
+Andorra,Europe,AND,2020,AND_2020,96
+Angola,Africa,AGO,2013,AGO_2013,9
+Angola,Africa,AGO,2014,AGO_2014,45
+Angola,Africa,AGO,2015,AGO_2015,55
+Angola,Africa,AGO,2016,AGO_2016,55
+Angola,Africa,AGO,2017,AGO_2017,52
+Angola,Africa,AGO,2018,AGO_2018,59
+Angola,Africa,AGO,2019,AGO_2019,53
+Angola,Africa,AGO,2020,AGO_2020,47
+Argentina,South America,ARG,2012,ARG_2012,41
+Argentina,South America,ARG,2013,ARG_2013,86
+Argentina,South America,ARG,2014,ARG_2014,89
+Argentina,South America,ARG,2015,ARG_2015,82
+Argentina,South America,ARG,2016,ARG_2016,82
+Argentina,South America,ARG,2017,ARG_2017,76
+Argentina,South America,ARG,2018,ARG_2018,88
+Argentina,South America,ARG,2019,ARG_2019,80
+Argentina,South America,ARG,2020,ARG_2020,75
+Armenia,Europe,ARM,2015,ARM_2015,44
+Armenia,Europe,ARM,2016,ARM_2016,94
+Armenia,Europe,ARM,2017,ARM_2017,94
+Armenia,Europe,ARM,2018,ARM_2018,92
+Armenia,Europe,ARM,2019,ARM_2019,92
+Armenia,Europe,ARM,2020,ARM_2020,92
+Asia,Asia,Asi,2008,Asi_2008,0
+Asia,Asia,Asi,2009,Asi_2009,3
+Asia,Asia,Asi,2010,Asi_2010,3
+Asia,Asia,Asi,2011,Asi_2011,5
+Asia,Asia,Asi,2012,Asi_2012,6
+Asia,Asia,Asi,2013,Asi_2013,10
+Asia,Asia,Asi,2014,Asi_2014,13
+Asia,Asia,Asi,2015,Asi_2015,17
+Asia,Asia,Asi,2016,Asi_2016,20
+Asia,Asia,Asi,2017,Asi_2017,23
+Asia,Asia,Asi,2018,Asi_2018,25
+Asia,Asia,Asi,2019,Asi_2019,29
+Asia,Asia,Asi,2020,Asi_2020,31
+Australia,Oceania,AUS,2008,AUS_2008,91
+Australia,Oceania,AUS,2009,AUS_2009,91
+Australia,Oceania,AUS,2010,AUS_2010,91
+Australia,Oceania,AUS,2011,AUS_2011,91
+Australia,Oceania,AUS,2012,AUS_2012,91
+Australia,Oceania,AUS,2013,AUS_2013,91
+Australia,Oceania,AUS,2014,AUS_2014,91
+Australia,Oceania,AUS,2015,AUS_2015,93
+Australia,Oceania,AUS,2016,AUS_2016,94
+Australia,Oceania,AUS,2017,AUS_2017,94
+Australia,Oceania,AUS,2018,AUS_2018,95
+Australia,Oceania,AUS,2019,AUS_2019,96
+Australia,Oceania,AUS,2020,AUS_2020,97
+Australia and New Zealand,Oceania,AaNZ,2008,AaNZ_2008,75
+Australia and New Zealand,Oceania,AaNZ,2009,AaNZ_2009,90
+Australia and New Zealand,Oceania,AaNZ,2010,AaNZ_2010,91
+Australia and New Zealand,Oceania,AaNZ,2011,AaNZ_2011,91
+Australia and New Zealand,Oceania,AaNZ,2012,AaNZ_2012,91
+Australia and New Zealand,Oceania,AaNZ,2013,AaNZ_2013,91
+Australia and New Zealand,Oceania,AaNZ,2014,AaNZ_2014,91
+Australia and New Zealand,Oceania,AaNZ,2015,AaNZ_2015,93
+Australia and New Zealand,Oceania,AaNZ,2016,AaNZ_2016,94
+Australia and New Zealand,Oceania,AaNZ,2017,AaNZ_2017,94
+Australia and New Zealand,Oceania,AaNZ,2018,AaNZ_2018,95
+Australia and New Zealand,Oceania,AaNZ,2019,AaNZ_2019,95
+Australia and New Zealand,Oceania,AaNZ,2020,AaNZ_2020,96
+Azerbaijan,Europe,AZE,2014,AZE_2014,64
+Azerbaijan,Europe,AZE,2015,AZE_2015,94
+Azerbaijan,Europe,AZE,2016,AZE_2016,97
+Azerbaijan,Europe,AZE,2017,AZE_2017,96
+Azerbaijan,Europe,AZE,2018,AZE_2018,95
+Azerbaijan,Europe,AZE,2019,AZE_2019,95
+Azerbaijan,Europe,AZE,2020,AZE_2020,79
+Bahamas,North America,BHS,2009,BHS_2009,3
+Bahamas,North America,BHS,2010,BHS_2010,1
+Bahamas,North America,BHS,2011,BHS_2011,1
+Bahamas,North America,BHS,2012,BHS_2012,37
+Bahamas,North America,BHS,2013,BHS_2013,97
+Bahamas,North America,BHS,2014,BHS_2014,96
+Bahamas,North America,BHS,2015,BHS_2015,95
+Bahamas,North America,BHS,2016,BHS_2016,94
+Bahamas,North America,BHS,2017,BHS_2017,93
+Bahamas,North America,BHS,2018,BHS_2018,90
+Bahamas,North America,BHS,2019,BHS_2019,89
+Bahamas,North America,BHS,2020,BHS_2020,83
+Bahrain,Asia,BHR,2008,BHR_2008,14
+Bahrain,Asia,BHR,2009,BHR_2009,96
+Bahrain,Asia,BHR,2010,BHR_2010,99
+Bahrain,Asia,BHR,2011,BHR_2011,99
+Bahrain,Asia,BHR,2012,BHR_2012,99
+Bahrain,Asia,BHR,2013,BHR_2013,99
+Bahrain,Asia,BHR,2014,BHR_2014,98
+Bahrain,Asia,BHR,2015,BHR_2015,98
+Bahrain,Asia,BHR,2016,BHR_2016,99
+Bahrain,Asia,BHR,2017,BHR_2017,97
+Bahrain,Asia,BHR,2018,BHR_2018,98
+Bahrain,Asia,BHR,2019,BHR_2019,97
+Bahrain,Asia,BHR,2020,BHR_2020,99
+Bangladesh,Asia,BGD,2015,BGD_2015,48
+Bangladesh,Asia,BGD,2016,BGD_2016,97
+Bangladesh,Asia,BGD,2017,BGD_2017,99
+Bangladesh,Asia,BGD,2018,BGD_2018,99
+Bangladesh,Asia,BGD,2019,BGD_2019,99
+Bangladesh,Asia,BGD,2020,BGD_2020,99
+Barbados,North America,BRB,2009,BRB_2009,75
+Barbados,North America,BRB,2010,BRB_2010,78
+Barbados,North America,BRB,2011,BRB_2011,81
+Barbados,North America,BRB,2012,BRB_2012,84
+Barbados,North America,BRB,2013,BRB_2013,87
+Barbados,North America,BRB,2014,BRB_2014,90
+Barbados,North America,BRB,2015,BRB_2015,97
+Barbados,North America,BRB,2016,BRB_2016,96
+Barbados,North America,BRB,2017,BRB_2017,89
+Barbados,North America,BRB,2018,BRB_2018,89
+Barbados,North America,BRB,2019,BRB_2019,93
+Barbados,North America,BRB,2020,BRB_2020,86
+Belgium,Europe,BEL,2012,BEL_2012,93
+Belgium,Europe,BEL,2013,BEL_2013,93
+Belgium,Europe,BEL,2014,BEL_2014,93
+Belgium,Europe,BEL,2015,BEL_2015,94
+Belgium,Europe,BEL,2016,BEL_2016,94
+Belgium,Europe,BEL,2017,BEL_2017,94
+Belgium,Europe,BEL,2018,BEL_2018,94
+Belgium,Europe,BEL,2019,BEL_2019,94
+Belgium,Europe,BEL,2020,BEL_2020,94
+Benin,Africa,BEN,2011,BEN_2011,36
+Benin,Africa,BEN,2012,BEN_2012,67
+Benin,Africa,BEN,2013,BEN_2013,70
+Benin,Africa,BEN,2014,BEN_2014,69
+Benin,Africa,BEN,2015,BEN_2015,72
+Benin,Africa,BEN,2016,BEN_2016,73
+Benin,Africa,BEN,2017,BEN_2017,73
+Benin,Africa,BEN,2018,BEN_2018,73
+Benin,Africa,BEN,2019,BEN_2019,73
+Benin,Africa,BEN,2020,BEN_2020,68
+Bhutan,Asia,BTN,2019,BTN_2019,26
+Bhutan,Asia,BTN,2020,BTN_2020,90
+Bolivia,South America,BOL,2014,BOL_2014,56
+Bolivia,South America,BOL,2015,BOL_2015,86
+Bolivia,South America,BOL,2016,BOL_2016,87
+Bolivia,South America,BOL,2017,BOL_2017,83
+Bolivia,South America,BOL,2018,BOL_2018,83
+Bolivia,South America,BOL,2019,BOL_2019,75
+Bolivia,South America,BOL,2020,BOL_2020,68
+Botswana,Africa,BWA,2012,BWA_2012,52
+Botswana,Africa,BWA,2013,BWA_2013,72
+Botswana,Africa,BWA,2014,BWA_2014,95
+Botswana,Africa,BWA,2015,BWA_2015,93
+Botswana,Africa,BWA,2016,BWA_2016,91
+Botswana,Africa,BWA,2017,BWA_2017,89
+Botswana,Africa,BWA,2018,BWA_2018,91
+Botswana,Africa,BWA,2019,BWA_2019,92
+Botswana,Africa,BWA,2020,BWA_2020,90
+Brazil,South America,BRA,2010,BRA_2010,24
+Brazil,South America,BRA,2011,BRA_2011,82
+Brazil,South America,BRA,2012,BRA_2012,88
+Brazil,South America,BRA,2013,BRA_2013,94
+Brazil,South America,BRA,2014,BRA_2014,93
+Brazil,South America,BRA,2015,BRA_2015,94
+Brazil,South America,BRA,2016,BRA_2016,84
+Brazil,South America,BRA,2017,BRA_2017,84
+Brazil,South America,BRA,2018,BRA_2018,84
+Brazil,South America,BRA,2019,BRA_2019,84
+Brazil,South America,BRA,2020,BRA_2020,79
+Bulgaria,Europe,BGR,2010,BGR_2010,69
+Bulgaria,Europe,BGR,2011,BGR_2011,94
+Bulgaria,Europe,BGR,2012,BGR_2012,94
+Bulgaria,Europe,BGR,2013,BGR_2013,94
+Bulgaria,Europe,BGR,2014,BGR_2014,92
+Bulgaria,Europe,BGR,2015,BGR_2015,90
+Bulgaria,Europe,BGR,2016,BGR_2016,90
+Bulgaria,Europe,BGR,2017,BGR_2017,91
+Bulgaria,Europe,BGR,2018,BGR_2018,88
+Bulgaria,Europe,BGR,2019,BGR_2019,88
+Bulgaria,Europe,BGR,2020,BGR_2020,85
+Burkina Faso,Africa,BFA,2014,BFA_2014,91
+Burkina Faso,Africa,BFA,2015,BFA_2015,91
+Burkina Faso,Africa,BFA,2016,BFA_2016,91
+Burkina Faso,Africa,BFA,2017,BFA_2017,91
+Burkina Faso,Africa,BFA,2018,BFA_2018,91
+Burkina Faso,Africa,BFA,2019,BFA_2019,91
+Burkina Faso,Africa,BFA,2020,BFA_2020,91
+Burundi,Africa,BDI,2011,BDI_2011,14
+Burundi,Africa,BDI,2012,BDI_2012,96
+Burundi,Africa,BDI,2013,BDI_2013,96
+Burundi,Africa,BDI,2014,BDI_2014,95
+Burundi,Africa,BDI,2015,BDI_2015,94
+Burundi,Africa,BDI,2016,BDI_2016,94
+Burundi,Africa,BDI,2017,BDI_2017,91
+Burundi,Africa,BDI,2018,BDI_2018,90
+Burundi,Africa,BDI,2019,BDI_2019,93
+Burundi,Africa,BDI,2020,BDI_2020,93
+Cambodia,Asia,KHM,2015,KHM_2015,68
+Cambodia,Asia,KHM,2016,KHM_2016,87
+Cambodia,Asia,KHM,2017,KHM_2017,82
+Cambodia,Asia,KHM,2018,KHM_2018,84
+Cambodia,Asia,KHM,2019,KHM_2019,89
+Cambodia,Asia,KHM,2020,KHM_2020,90
+Cameroon,Africa,CMR,2011,CMR_2011,23
+Cameroon,Africa,CMR,2012,CMR_2012,84
+Cameroon,Africa,CMR,2013,CMR_2013,88
+Cameroon,Africa,CMR,2014,CMR_2014,83
+Cameroon,Africa,CMR,2015,CMR_2015,77
+Cameroon,Africa,CMR,2016,CMR_2016,72
+Cameroon,Africa,CMR,2017,CMR_2017,72
+Cameroon,Africa,CMR,2018,CMR_2018,67
+Cameroon,Africa,CMR,2019,CMR_2019,67
+Cameroon,Africa,CMR,2020,CMR_2020,69
+Canada,North America,CAN,2008,CAN_2008,42
+Canada,North America,CAN,2009,CAN_2009,50
+Canada,North America,CAN,2010,CAN_2010,58
+Canada,North America,CAN,2011,CAN_2011,66
+Canada,North America,CAN,2012,CAN_2012,73
+Canada,North America,CAN,2013,CAN_2013,79
+Canada,North America,CAN,2014,CAN_2014,79
+Canada,North America,CAN,2015,CAN_2015,80
+Canada,North America,CAN,2016,CAN_2016,80
+Canada,North America,CAN,2017,CAN_2017,81
+Canada,North America,CAN,2018,CAN_2018,81
+Canada,North America,CAN,2019,CAN_2019,84
+Canada,North America,CAN,2020,CAN_2020,84
+Caribbean,North America,Car,2008,Car_2008,0
+Caribbean,North America,Car,2009,Car_2009,0
+Caribbean,North America,Car,2010,Car_2010,0
+Caribbean,North America,Car,2011,Car_2011,0
+Caribbean,North America,Car,2012,Car_2012,2
+Caribbean,North America,Car,2013,Car_2013,3
+Caribbean,North America,Car,2014,Car_2014,12
+Caribbean,North America,Car,2015,Car_2015,11
+Caribbean,North America,Car,2016,Car_2016,13
+Caribbean,North America,Car,2017,Car_2017,23
+Caribbean,North America,Car,2018,Car_2018,30
+Caribbean,North America,Car,2019,Car_2019,42
+Caribbean,North America,Car,2020,Car_2020,45
+Caucasus and Central Asia (MDG),Asia,CaCA,2008,CaCA_2008,0
+Caucasus and Central Asia (MDG),Asia,CaCA,2009,CaCA_2009,0
+Caucasus and Central Asia (MDG),Asia,CaCA,2010,CaCA_2010,0
+Caucasus and Central Asia (MDG),Asia,CaCA,2011,CaCA_2011,0
+Caucasus and Central Asia (MDG),Asia,CaCA,2012,CaCA_2012,8
+Caucasus and Central Asia (MDG),Asia,CaCA,2013,CaCA_2013,11
+Caucasus and Central Asia (MDG),Asia,CaCA,2014,CaCA_2014,18
+Caucasus and Central Asia (MDG),Asia,CaCA,2015,CaCA_2015,25
+Caucasus and Central Asia (MDG),Asia,CaCA,2016,CaCA_2016,33
+Caucasus and Central Asia (MDG),Asia,CaCA,2017,CaCA_2017,76
+Caucasus and Central Asia (MDG),Asia,CaCA,2018,CaCA_2018,74
+Caucasus and Central Asia (MDG),Asia,CaCA,2019,CaCA_2019,74
+Caucasus and Central Asia (MDG),Asia,CaCA,2020,CaCA_2020,72
+Central African Republic,Africa,CAF,2011,CAF_2011,8
+Central African Republic,Africa,CAF,2012,CAF_2012,47
+Central African Republic,Africa,CAF,2013,CAF_2013,23
+Central African Republic,Africa,CAF,2014,CAF_2014,45
+Central African Republic,Africa,CAF,2015,CAF_2015,44
+Central African Republic,Africa,CAF,2016,CAF_2016,43
+Central African Republic,Africa,CAF,2017,CAF_2017,40
+Central African Republic,Africa,CAF,2018,CAF_2018,40
+Central African Republic,Africa,CAF,2019,CAF_2019,40
+Central African Republic,Africa,CAF,2020,CAF_2020,40
+Central America,North America,CA,2008,CA_2008,10
+Central America,North America,CA,2009,CA_2009,33
+Central America,North America,CA,2010,CA_2010,69
+Central America,North America,CA,2011,CA_2011,82
+Central America,North America,CA,2012,CA_2012,86
+Central America,North America,CA,2013,CA_2013,79
+Central America,North America,CA,2014,CA_2014,88
+Central America,North America,CA,2015,CA_2015,92
+Central America,North America,CA,2016,CA_2016,91
+Central America,North America,CA,2017,CA_2017,91
+Central America,North America,CA,2018,CA_2018,88
+Central America,North America,CA,2019,CA_2019,87
+Central America,North America,CA,2020,CA_2020,78
+Central Asia,Asia,CA,2008,CA_2008,0
+Central Asia,Asia,CA,2009,CA_2009,0
+Central Asia,Asia,CA,2010,CA_2010,0
+Central Asia,Asia,CA,2011,CA_2011,0
+Central Asia,Asia,CA,2012,CA_2012,9
+Central Asia,Asia,CA,2013,CA_2013,12
+Central Asia,Asia,CA,2014,CA_2014,14
+Central Asia,Asia,CA,2015,CA_2015,18
+Central Asia,Asia,CA,2016,CA_2016,23
+Central Asia,Asia,CA,2017,CA_2017,73
+Central Asia,Asia,CA,2018,CA_2018,71
+Central Asia,Asia,CA,2019,CA_2019,71
+Central Asia,Asia,CA,2020,CA_2020,70
+Central Asia and Southern Asia,Asia,CAaSA,2008,CAaSA_2008,0
+Central Asia and Southern Asia,Asia,CAaSA,2009,CAaSA_2009,0
+Central Asia and Southern Asia,Asia,CAaSA,2010,CAaSA_2010,0
+Central Asia and Southern Asia,Asia,CAaSA,2011,CAaSA_2011,0
+Central Asia and Southern Asia,Asia,CAaSA,2012,CAaSA_2012,0
+Central Asia and Southern Asia,Asia,CAaSA,2013,CAaSA_2013,10
+Central Asia and Southern Asia,Asia,CAaSA,2014,CAaSA_2014,12
+Central Asia and Southern Asia,Asia,CAaSA,2015,CAaSA_2015,18
+Central Asia and Southern Asia,Asia,CAaSA,2016,CAaSA_2016,23
+Central Asia and Southern Asia,Asia,CAaSA,2017,CAaSA_2017,26
+Central Asia and Southern Asia,Asia,CAaSA,2018,CAaSA_2018,30
+Central Asia and Southern Asia,Asia,CAaSA,2019,CAaSA_2019,36
+Central Asia and Southern Asia,Asia,CAaSA,2020,CAaSA_2020,39
+Chile,South America,CHL,2011,CHL_2011,54
+Chile,South America,CHL,2012,CHL_2012,82
+Chile,South America,CHL,2013,CHL_2013,79
+Chile,South America,CHL,2014,CHL_2014,92
+Chile,South America,CHL,2015,CHL_2015,90
+Chile,South America,CHL,2016,CHL_2016,93
+Chile,South America,CHL,2017,CHL_2017,93
+Chile,South America,CHL,2018,CHL_2018,93
+Chile,South America,CHL,2019,CHL_2019,95
+Chile,South America,CHL,2020,CHL_2020,89
+Colombia,South America,COL,2010,COL_2010,22
+Colombia,South America,COL,2011,COL_2011,46
+Colombia,South America,COL,2012,COL_2012,84
+Colombia,South America,COL,2013,COL_2013,87
+Colombia,South America,COL,2014,COL_2014,89
+Colombia,South America,COL,2015,COL_2015,91
+Colombia,South America,COL,2016,COL_2016,89
+Colombia,South America,COL,2017,COL_2017,91
+Colombia,South America,COL,2018,COL_2018,94
+Colombia,South America,COL,2019,COL_2019,93
+Colombia,South America,COL,2020,COL_2020,89
+Congo,Africa,COG,2012,COG_2012,10
+Congo,Africa,COG,2013,COG_2013,85
+Congo,Africa,COG,2014,COG_2014,85
+Congo,Africa,COG,2015,COG_2015,80
+Congo,Africa,COG,2016,COG_2016,67
+Congo,Africa,COG,2017,COG_2017,66
+Congo,Africa,COG,2018,COG_2018,73
+Congo,Africa,COG,2019,COG_2019,68
+Congo,Africa,COG,2020,COG_2020,71
+Costa Rica,North America,CRI,2009,CRI_2009,48
+Costa Rica,North America,CRI,2010,CRI_2010,94
+Costa Rica,North America,CRI,2011,CRI_2011,68
+Costa Rica,North America,CRI,2012,CRI_2012,89
+Costa Rica,North America,CRI,2013,CRI_2013,94
+Costa Rica,North America,CRI,2014,CRI_2014,83
+Costa Rica,North America,CRI,2015,CRI_2015,94
+Costa Rica,North America,CRI,2016,CRI_2016,94
+Costa Rica,North America,CRI,2017,CRI_2017,96
+Costa Rica,North America,CRI,2018,CRI_2018,96
+Costa Rica,North America,CRI,2019,CRI_2019,95
+Costa Rica,North America,CRI,2020,CRI_2020,95
+Cote d'Ivoire,Africa,CIV,2014,CIV_2014,2
+Cote d'Ivoire,Africa,CIV,2015,CIV_2015,70
+Cote d'Ivoire,Africa,CIV,2016,CIV_2016,80
+Cote d'Ivoire,Africa,CIV,2017,CIV_2017,82
+Cote d'Ivoire,Africa,CIV,2018,CIV_2018,81
+Cote d'Ivoire,Africa,CIV,2019,CIV_2019,84
+Cote d'Ivoire,Africa,CIV,2020,CIV_2020,79
+Cyprus,Europe,CYP,2015,CYP_2015,81
+Cyprus,Europe,CYP,2016,CYP_2016,81
+Cyprus,Europe,CYP,2017,CYP_2017,81
+Cyprus,Europe,CYP,2018,CYP_2018,81
+Cyprus,Europe,CYP,2019,CYP_2019,81
+Democratic Republic of Congo,Africa,COD,2011,COD_2011,9
+Democratic Republic of Congo,Africa,COD,2012,COD_2012,13
+Democratic Republic of Congo,Africa,COD,2013,COD_2013,29
+Democratic Republic of Congo,Africa,COD,2014,COD_2014,56
+Democratic Republic of Congo,Africa,COD,2015,COD_2015,66
+Democratic Republic of Congo,Africa,COD,2016,COD_2016,58
+Democratic Republic of Congo,Africa,COD,2017,COD_2017,58
+Democratic Republic of Congo,Africa,COD,2018,COD_2018,58
+Democratic Republic of Congo,Africa,COD,2019,COD_2019,58
+Democratic Republic of Congo,Africa,COD,2020,COD_2020,58
+Denmark,Europe,DNK,2009,DNK_2009,86
+Denmark,Europe,DNK,2010,DNK_2010,88
+Denmark,Europe,DNK,2011,DNK_2011,90
+Denmark,Europe,DNK,2012,DNK_2012,93
+Denmark,Europe,DNK,2013,DNK_2013,90
+Denmark,Europe,DNK,2014,DNK_2014,93
+Denmark,Europe,DNK,2015,DNK_2015,91
+Denmark,Europe,DNK,2016,DNK_2016,94
+Denmark,Europe,DNK,2017,DNK_2017,97
+Denmark,Europe,DNK,2018,DNK_2018,96
+Denmark,Europe,DNK,2019,DNK_2019,97
+Denmark,Europe,DNK,2020,DNK_2020,96
+Djibouti,Africa,DJI,2013,DJI_2013,82
+Djibouti,Africa,DJI,2014,DJI_2014,78
+Djibouti,Africa,DJI,2015,DJI_2015,82
+Djibouti,Africa,DJI,2016,DJI_2016,68
+Djibouti,Africa,DJI,2017,DJI_2017,76
+Djibouti,Africa,DJI,2018,DJI_2018,84
+Djibouti,Africa,DJI,2019,DJI_2019,85
+Djibouti,Africa,DJI,2020,DJI_2020,70
+Dominican Republic,North America,DOM,2014,DOM_2014,27
+Dominican Republic,North America,DOM,2015,DOM_2015,22
+Dominican Republic,North America,DOM,2016,DOM_2016,30
+Dominican Republic,North America,DOM,2017,DOM_2017,64
+Dominican Republic,North America,DOM,2018,DOM_2018,70
+Dominican Republic,North America,DOM,2019,DOM_2019,70
+Dominican Republic,North America,DOM,2020,DOM_2020,69
+Eastern Africa,Africa,EA,2008,EA_2008,0
+Eastern Africa,Africa,EA,2009,EA_2009,0
+Eastern Africa,Africa,EA,2010,EA_2010,3
+Eastern Africa,Africa,EA,2011,EA_2011,16
+Eastern Africa,Africa,EA,2012,EA_2012,27
+Eastern Africa,Africa,EA,2013,EA_2013,52
+Eastern Africa,Africa,EA,2014,EA_2014,67
+Eastern Africa,Africa,EA,2015,EA_2015,68
+Eastern Africa,Africa,EA,2016,EA_2016,72
+Eastern Africa,Africa,EA,2017,EA_2017,74
+Eastern Africa,Africa,EA,2018,EA_2018,74
+Eastern Africa,Africa,EA,2019,EA_2019,75
+Eastern Africa,Africa,EA,2020,EA_2020,73
+Eastern Asia,Asia,EA,2008,EA_2008,0
+Eastern Asia,Asia,EA,2009,EA_2009,0
+Eastern Asia,Asia,EA,2010,EA_2010,0
+Eastern Asia,Asia,EA,2011,EA_2011,6
+Eastern Asia,Asia,EA,2012,EA_2012,5
+Eastern Asia,Asia,EA,2013,EA_2013,5
+Eastern Asia,Asia,EA,2014,EA_2014,5
+Eastern Asia,Asia,EA,2015,EA_2015,7
+Eastern Asia,Asia,EA,2016,EA_2016,7
+Eastern Asia,Asia,EA,2017,EA_2017,7
+Eastern Asia,Asia,EA,2018,EA_2018,7
+Eastern Asia,Asia,EA,2019,EA_2019,7
+Eastern Asia,Asia,EA,2020,EA_2020,7
+Eastern Asia (MDG),Asia,EA,2008,EA_2008,0
+Eastern Asia (MDG),Asia,EA,2009,EA_2009,0
+Eastern Asia (MDG),Asia,EA,2010,EA_2010,0
+Eastern Asia (MDG),Asia,EA,2011,EA_2011,0
+Eastern Asia (MDG),Asia,EA,2012,EA_2012,0
+Eastern Asia (MDG),Asia,EA,2013,EA_2013,0
+Eastern Asia (MDG),Asia,EA,2014,EA_2014,0
+Eastern Asia (MDG),Asia,EA,2015,EA_2015,2
+Eastern Asia (MDG),Asia,EA,2016,EA_2016,2
+Eastern Asia (MDG),Asia,EA,2017,EA_2017,2
+Eastern Asia (MDG),Asia,EA,2018,EA_2018,2
+Eastern Asia (MDG),Asia,EA,2019,EA_2019,2
+Eastern Asia (MDG),Asia,EA,2020,EA_2020,2
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2008,EAaSA_2008,0
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2009,EAaSA_2009,0
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2010,EAaSA_2010,0
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2011,EAaSA_2011,4
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2012,EAaSA_2012,4
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2013,EAaSA_2013,3
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2014,EAaSA_2014,6
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2015,EAaSA_2015,7
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2016,EAaSA_2016,9
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2017,EAaSA_2017,11
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2018,EAaSA_2018,12
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2019,EAaSA_2019,13
+Eastern Asia and South-eastern Asia,Asia,EAaSA,2020,EAaSA_2020,14
+Eastern Europe,Europe,EE,2008,EE_2008,0
+Eastern Europe,Europe,EE,2009,EE_2009,2
+Eastern Europe,Europe,EE,2010,EE_2010,3
+Eastern Europe,Europe,EE,2011,EE_2011,6
+Eastern Europe,Europe,EE,2012,EE_2012,6
+Eastern Europe,Europe,EE,2013,EE_2013,6
+Eastern Europe,Europe,EE,2014,EE_2014,6
+Eastern Europe,Europe,EE,2015,EE_2015,7
+Eastern Europe,Europe,EE,2016,EE_2016,26
+Eastern Europe,Europe,EE,2017,EE_2017,46
+Eastern Europe,Europe,EE,2018,EE_2018,60
+Eastern Europe,Europe,EE,2019,EE_2019,66
+Eastern Europe,Europe,EE,2020,EE_2020,68
+Ecuador,South America,ECU,2010,ECU_2010,17
+Ecuador,South America,ECU,2011,ECU_2011,71
+Ecuador,South America,ECU,2012,ECU_2012,94
+Ecuador,South America,ECU,2013,ECU_2013,90
+Ecuador,South America,ECU,2014,ECU_2014,86
+Ecuador,South America,ECU,2015,ECU_2015,81
+Ecuador,South America,ECU,2016,ECU_2016,84
+Ecuador,South America,ECU,2017,ECU_2017,84
+Ecuador,South America,ECU,2018,ECU_2018,85
+Ecuador,South America,ECU,2019,ECU_2019,83
+Ecuador,South America,ECU,2020,ECU_2020,76
+El Salvador,North America,SLV,2010,SLV_2010,69
+El Salvador,North America,SLV,2011,SLV_2011,98
+El Salvador,North America,SLV,2012,SLV_2012,94
+El Salvador,North America,SLV,2013,SLV_2013,92
+El Salvador,North America,SLV,2014,SLV_2014,86
+El Salvador,North America,SLV,2015,SLV_2015,98
+El Salvador,North America,SLV,2016,SLV_2016,90
+El Salvador,North America,SLV,2017,SLV_2017,87
+El Salvador,North America,SLV,2018,SLV_2018,75
+El Salvador,North America,SLV,2019,SLV_2019,82
+El Salvador,North America,SLV,2020,SLV_2020,78
+Eritrea,Africa,ERI,2016,ERI_2016,95
+Eritrea,Africa,ERI,2017,ERI_2017,95
+Eritrea,Africa,ERI,2018,ERI_2018,95
+Eritrea,Africa,ERI,2019,ERI_2019,95
+Eritrea,Africa,ERI,2020,ERI_2020,95
+Eswatini,Africa,SWZ,2014,SWZ_2014,67
+Eswatini,Africa,SWZ,2015,SWZ_2015,90
+Eswatini,Africa,SWZ,2016,SWZ_2016,90
+Eswatini,Africa,SWZ,2017,SWZ_2017,87
+Eswatini,Africa,SWZ,2018,SWZ_2018,88
+Eswatini,Africa,SWZ,2019,SWZ_2019,87
+Eswatini,Africa,SWZ,2020,SWZ_2020,83
+Ethiopia,Africa,ETH,2011,ETH_2011,12
+Ethiopia,Africa,ETH,2012,ETH_2012,30
+Ethiopia,Africa,ETH,2013,ETH_2013,48
+Ethiopia,Africa,ETH,2014,ETH_2014,54
+Ethiopia,Africa,ETH,2015,ETH_2015,57
+Ethiopia,Africa,ETH,2016,ETH_2016,61
+Ethiopia,Africa,ETH,2017,ETH_2017,64
+Ethiopia,Africa,ETH,2018,ETH_2018,63
+Ethiopia,Africa,ETH,2019,ETH_2019,64
+Ethiopia,Africa,ETH,2020,ETH_2020,67
+Europe,Europe,Eur,2008,Eur_2008,8
+Europe,Europe,Eur,2009,Eur_2009,24
+Europe,Europe,Eur,2010,Eur_2010,37
+Europe,Europe,Eur,2011,Eur_2011,41
+Europe,Europe,Eur,2012,Eur_2012,44
+Europe,Europe,Eur,2013,Eur_2013,45
+Europe,Europe,Eur,2014,Eur_2014,46
+Europe,Europe,Eur,2015,Eur_2015,48
+Europe,Europe,Eur,2016,Eur_2016,56
+Europe,Europe,Eur,2017,Eur_2017,73
+Europe,Europe,Eur,2018,Eur_2018,78
+Europe,Europe,Eur,2019,Eur_2019,80
+Europe,Europe,Eur,2020,Eur_2020,79
+Fiji,Oceania,FJI,2013,FJI_2013,87
+Fiji,Oceania,FJI,2014,FJI_2014,99
+Fiji,Oceania,FJI,2015,FJI_2015,99
+Fiji,Oceania,FJI,2016,FJI_2016,99
+Fiji,Oceania,FJI,2017,FJI_2017,99
+Fiji,Oceania,FJI,2018,FJI_2018,99
+Fiji,Oceania,FJI,2019,FJI_2019,99
+Fiji,Oceania,FJI,2020,FJI_2020,99
+Finland,Europe,FIN,2010,FIN_2010,92
+Finland,Europe,FIN,2011,FIN_2011,92
+Finland,Europe,FIN,2012,FIN_2012,92
+Finland,Europe,FIN,2013,FIN_2013,92
+Finland,Europe,FIN,2014,FIN_2014,92
+Finland,Europe,FIN,2015,FIN_2015,92
+Finland,Europe,FIN,2016,FIN_2016,87
+Finland,Europe,FIN,2017,FIN_2017,85
+Finland,Europe,FIN,2018,FIN_2018,88
+Finland,Europe,FIN,2019,FIN_2019,89
+Finland,Europe,FIN,2020,FIN_2020,89
+France,Europe,FRA,2010,FRA_2010,89
+France,Europe,FRA,2011,FRA_2011,89
+France,Europe,FRA,2012,FRA_2012,89
+France,Europe,FRA,2013,FRA_2013,89
+France,Europe,FRA,2014,FRA_2014,89
+France,Europe,FRA,2015,FRA_2015,91
+France,Europe,FRA,2016,FRA_2016,92
+France,Europe,FRA,2017,FRA_2017,92
+France,Europe,FRA,2018,FRA_2018,92
+France,Europe,FRA,2019,FRA_2019,92
+Gambia,Africa,GMB,2010,GMB_2010,99
+Gambia,Africa,GMB,2011,GMB_2011,95
+Gambia,Africa,GMB,2012,GMB_2012,98
+Gambia,Africa,GMB,2013,GMB_2013,96
+Gambia,Africa,GMB,2014,GMB_2014,96
+Gambia,Africa,GMB,2015,GMB_2015,97
+Gambia,Africa,GMB,2016,GMB_2016,95
+Gambia,Africa,GMB,2017,GMB_2017,90
+Gambia,Africa,GMB,2018,GMB_2018,93
+Gambia,Africa,GMB,2019,GMB_2019,87
+Georgia,Europe,GEO,2015,GEO_2015,16
+Georgia,Europe,GEO,2016,GEO_2016,75
+Georgia,Europe,GEO,2017,GEO_2017,80
+Georgia,Europe,GEO,2018,GEO_2018,81
+Georgia,Europe,GEO,2019,GEO_2019,84
+Georgia,Europe,GEO,2020,GEO_2020,82
+Germany,Europe,DEU,2008,DEU_2008,68
+Germany,Europe,DEU,2009,DEU_2009,84
+Germany,Europe,DEU,2010,DEU_2010,85
+Germany,Europe,DEU,2011,DEU_2011,86
+Germany,Europe,DEU,2012,DEU_2012,84
+Germany,Europe,DEU,2013,DEU_2013,84
+Germany,Europe,DEU,2014,DEU_2014,83
+Germany,Europe,DEU,2015,DEU_2015,83
+Germany,Europe,DEU,2016,DEU_2016,83
+Germany,Europe,DEU,2017,DEU_2017,83
+Germany,Europe,DEU,2018,DEU_2018,83
+Germany,Europe,DEU,2019,DEU_2019,83
+Germany,Europe,DEU,2020,DEU_2020,83
+Ghana,Africa,GHA,2012,GHA_2012,43
+Ghana,Africa,GHA,2013,GHA_2013,89
+Ghana,Africa,GHA,2014,GHA_2014,99
+Ghana,Africa,GHA,2015,GHA_2015,88
+Ghana,Africa,GHA,2016,GHA_2016,93
+Ghana,Africa,GHA,2017,GHA_2017,99
+Ghana,Africa,GHA,2018,GHA_2018,96
+Ghana,Africa,GHA,2019,GHA_2019,97
+Ghana,Africa,GHA,2020,GHA_2020,95
+Greece,Europe,GRC,2012,GRC_2012,32
+Greece,Europe,GRC,2013,GRC_2013,32
+Greece,Europe,GRC,2014,GRC_2014,96
+Greece,Europe,GRC,2015,GRC_2015,96
+Greece,Europe,GRC,2016,GRC_2016,96
+Greece,Europe,GRC,2017,GRC_2017,96
+Greece,Europe,GRC,2018,GRC_2018,96
+Greece,Europe,GRC,2019,GRC_2019,96
+Greece,Europe,GRC,2020,GRC_2020,96
+Guatemala,North America,GTM,2013,GTM_2013,24
+Guatemala,North America,GTM,2014,GTM_2014,51
+Guatemala,North America,GTM,2015,GTM_2015,82
+Guatemala,North America,GTM,2016,GTM_2016,81
+Guatemala,North America,GTM,2017,GTM_2017,84
+Guatemala,North America,GTM,2018,GTM_2018,85
+Guatemala,North America,GTM,2019,GTM_2019,88
+Guatemala,North America,GTM,2020,GTM_2020,86
+Guinea-Bissau,Africa,GNB,2015,GNB_2015,10
+Guinea-Bissau,Africa,GNB,2016,GNB_2016,83
+Guinea-Bissau,Africa,GNB,2017,GNB_2017,79
+Guinea-Bissau,Africa,GNB,2018,GNB_2018,82
+Guinea-Bissau,Africa,GNB,2019,GNB_2019,78
+Guinea-Bissau,Africa,GNB,2020,GNB_2020,74
+Guyana,South America,GUY,2011,GUY_2011,50
+Guyana,South America,GUY,2012,GUY_2012,90
+Guyana,South America,GUY,2013,GUY_2013,96
+Guyana,South America,GUY,2014,GUY_2014,97
+Guyana,South America,GUY,2015,GUY_2015,94
+Guyana,South America,GUY,2016,GUY_2016,92
+Guyana,South America,GUY,2017,GUY_2017,97
+Guyana,South America,GUY,2018,GUY_2018,91
+Guyana,South America,GUY,2019,GUY_2019,98
+Guyana,South America,GUY,2020,GUY_2020,89
+Haiti,North America,HTI,2018,HTI_2018,12
+Haiti,North America,HTI,2019,HTI_2019,42
+Haiti,North America,HTI,2020,HTI_2020,51
+Honduras,North America,HND,2011,HND_2011,78
+Honduras,North America,HND,2012,HND_2012,97
+Honduras,North America,HND,2013,HND_2013,99
+Honduras,North America,HND,2014,HND_2014,99
+Honduras,North America,HND,2015,HND_2015,99
+Honduras,North America,HND,2016,HND_2016,94
+Honduras,North America,HND,2017,HND_2017,90
+Honduras,North America,HND,2018,HND_2018,91
+Honduras,North America,HND,2019,HND_2019,88
+Honduras,North America,HND,2020,HND_2020,80
+Hungary,Europe,HUN,2011,HUN_2011,84
+Hungary,Europe,HUN,2012,HUN_2012,90
+Hungary,Europe,HUN,2013,HUN_2013,92
+Hungary,Europe,HUN,2014,HUN_2014,93
+Hungary,Europe,HUN,2015,HUN_2015,91
+Hungary,Europe,HUN,2016,HUN_2016,98
+Hungary,Europe,HUN,2017,HUN_2017,99
+Hungary,Europe,HUN,2018,HUN_2018,99
+Hungary,Europe,HUN,2019,HUN_2019,99
+Hungary,Europe,HUN,2020,HUN_2020,99
+Iceland,Europe,ISL,2012,ISL_2012,86
+Iceland,Europe,ISL,2013,ISL_2013,88
+Iceland,Europe,ISL,2014,ISL_2014,90
+Iceland,Europe,ISL,2015,ISL_2015,91
+Iceland,Europe,ISL,2016,ISL_2016,90
+Iceland,Europe,ISL,2017,ISL_2017,88
+Iceland,Europe,ISL,2018,ISL_2018,90
+Iceland,Europe,ISL,2019,ISL_2019,92
+Iceland,Europe,ISL,2020,ISL_2020,93
+India,Asia,IND,2018,IND_2018,6
+India,Asia,IND,2019,IND_2019,15
+India,Asia,IND,2020,IND_2020,21
+Indonesia,Asia,IDN,2018,IDN_2018,0
+Indonesia,Asia,IDN,2019,IDN_2019,3
+Indonesia,Asia,IDN,2020,IDN_2020,4
+Iraq,Asia,IRQ,2017,IRQ_2017,33
+Iraq,Asia,IRQ,2018,IRQ_2018,33
+Iraq,Asia,IRQ,2019,IRQ_2019,37
+Iraq,Asia,IRQ,2020,IRQ_2020,0
+Ireland,Europe,IRL,2010,IRL_2010,43
+Ireland,Europe,IRL,2011,IRL_2011,90
+Ireland,Europe,IRL,2012,IRL_2012,91
+Ireland,Europe,IRL,2013,IRL_2013,91
+Ireland,Europe,IRL,2014,IRL_2014,92
+Ireland,Europe,IRL,2015,IRL_2015,92
+Ireland,Europe,IRL,2016,IRL_2016,91
+Ireland,Europe,IRL,2017,IRL_2017,91
+Ireland,Europe,IRL,2018,IRL_2018,90
+Ireland,Europe,IRL,2019,IRL_2019,86
+Ireland,Europe,IRL,2020,IRL_2020,86
+Israel,Asia,ISR,2011,ISR_2011,92
+Israel,Asia,ISR,2012,ISR_2012,93
+Israel,Asia,ISR,2013,ISR_2013,94
+Israel,Asia,ISR,2014,ISR_2014,94
+Israel,Asia,ISR,2015,ISR_2015,94
+Israel,Asia,ISR,2016,ISR_2016,93
+Israel,Asia,ISR,2017,ISR_2017,94
+Israel,Asia,ISR,2018,ISR_2018,95
+Israel,Asia,ISR,2019,ISR_2019,95
+Israel,Asia,ISR,2020,ISR_2020,94
+Italy,Europe,ITA,2008,ITA_2008,60
+Italy,Europe,ITA,2009,ITA_2009,66
+Italy,Europe,ITA,2010,ITA_2010,71
+Italy,Europe,ITA,2011,ITA_2011,76
+Italy,Europe,ITA,2012,ITA_2012,82
+Italy,Europe,ITA,2013,ITA_2013,87
+Italy,Europe,ITA,2014,ITA_2014,87
+Italy,Europe,ITA,2015,ITA_2015,89
+Italy,Europe,ITA,2016,ITA_2016,88
+Italy,Europe,ITA,2017,ITA_2017,91
+Italy,Europe,ITA,2018,ITA_2018,92
+Italy,Europe,ITA,2019,ITA_2019,92
+Italy,Europe,ITA,2020,ITA_2020,91
+Japan,Asia,JPN,2011,JPN_2011,98
+Japan,Asia,JPN,2012,JPN_2012,98
+Japan,Asia,JPN,2013,JPN_2013,98
+Japan,Asia,JPN,2014,JPN_2014,98
+Japan,Asia,JPN,2015,JPN_2015,96
+Japan,Asia,JPN,2016,JPN_2016,99
+Japan,Asia,JPN,2017,JPN_2017,99
+Japan,Asia,JPN,2018,JPN_2018,98
+Japan,Asia,JPN,2019,JPN_2019,97
+Japan,Asia,JPN,2020,JPN_2020,95
+Kazakhstan,Asia,KAZ,2012,KAZ_2012,37
+Kazakhstan,Asia,KAZ,2013,KAZ_2013,52
+Kazakhstan,Asia,KAZ,2014,KAZ_2014,58
+Kazakhstan,Asia,KAZ,2015,KAZ_2015,74
+Kazakhstan,Asia,KAZ,2016,KAZ_2016,97
+Kazakhstan,Asia,KAZ,2017,KAZ_2017,98
+Kazakhstan,Asia,KAZ,2018,KAZ_2018,95
+Kazakhstan,Asia,KAZ,2019,KAZ_2019,89
+Kazakhstan,Asia,KAZ,2020,KAZ_2020,89
+Kenya,Africa,KEN,2011,KEN_2011,85
+Kenya,Africa,KEN,2012,KEN_2012,82
+Kenya,Africa,KEN,2013,KEN_2013,75
+Kenya,Africa,KEN,2014,KEN_2014,81
+Kenya,Africa,KEN,2015,KEN_2015,75
+Kenya,Africa,KEN,2016,KEN_2016,78
+Kenya,Africa,KEN,2017,KEN_2017,82
+Kenya,Africa,KEN,2018,KEN_2018,92
+Kenya,Africa,KEN,2019,KEN_2019,91
+Kenya,Africa,KEN,2020,KEN_2020,90
+Kiribati,Oceania,KIR,2013,KIR_2013,40
+Kiribati,Oceania,KIR,2014,KIR_2014,57
+Kiribati,Oceania,KIR,2015,KIR_2015,74
+Kiribati,Oceania,KIR,2016,KIR_2016,79
+Kiribati,Oceania,KIR,2017,KIR_2017,91
+Kiribati,Oceania,KIR,2018,KIR_2018,94
+Kiribati,Oceania,KIR,2019,KIR_2019,97
+Kiribati,Oceania,KIR,2020,KIR_2020,91
+Kuwait,Asia,KWT,2008,KWT_2008,99
+Kuwait,Asia,KWT,2009,KWT_2009,99
+Kuwait,Asia,KWT,2010,KWT_2010,98
+Kuwait,Asia,KWT,2011,KWT_2011,99
+Kuwait,Asia,KWT,2012,KWT_2012,99
+Kuwait,Asia,KWT,2013,KWT_2013,99
+Kuwait,Asia,KWT,2014,KWT_2014,94
+Kuwait,Asia,KWT,2015,KWT_2015,99
+Kuwait,Asia,KWT,2016,KWT_2016,99
+Kuwait,Asia,KWT,2017,KWT_2017,99
+Kuwait,Asia,KWT,2018,KWT_2018,91
+Kuwait,Asia,KWT,2019,KWT_2019,91
+Kyrgyzstan,Asia,KGZ,2017,KGZ_2017,88
+Kyrgyzstan,Asia,KGZ,2018,KGZ_2018,92
+Kyrgyzstan,Asia,KGZ,2019,KGZ_2019,96
+Kyrgyzstan,Asia,KGZ,2020,KGZ_2020,90
+Laos,Asia,LAO,2014,LAO_2014,60
+Laos,Asia,LAO,2015,LAO_2015,74
+Laos,Asia,LAO,2016,LAO_2016,78
+Laos,Asia,LAO,2017,LAO_2017,82
+Laos,Asia,LAO,2018,LAO_2018,84
+Laos,Asia,LAO,2019,LAO_2019,81
+Laos,Asia,LAO,2020,LAO_2020,77
+Latin America and the Caribbean,South America,LAatC,2008,LAatC_2008,3
+Latin America and the Caribbean,South America,LAatC,2009,LAatC_2009,11
+Latin America and the Caribbean,South America,LAatC,2010,LAatC_2010,35
+Latin America and the Caribbean,South America,LAatC,2011,LAatC_2011,60
+Latin America and the Caribbean,South America,LAatC,2012,LAatC_2012,71
+Latin America and the Caribbean,South America,LAatC,2013,LAatC_2013,74
+Latin America and the Caribbean,South America,LAatC,2014,LAatC_2014,79
+Latin America and the Caribbean,South America,LAatC,2015,LAatC_2015,82
+Latin America and the Caribbean,South America,LAatC,2016,LAatC_2016,78
+Latin America and the Caribbean,South America,LAatC,2017,LAatC_2017,78
+Latin America and the Caribbean,South America,LAatC,2018,LAatC_2018,79
+Latin America and the Caribbean,South America,LAatC,2019,LAatC_2019,78
+Latin America and the Caribbean,South America,LAatC,2020,LAatC_2020,73
+Latvia,Europe,LVA,2011,LVA_2011,76
+Latvia,Europe,LVA,2012,LVA_2012,55
+Latvia,Europe,LVA,2013,LVA_2013,87
+Latvia,Europe,LVA,2014,LVA_2014,84
+Latvia,Europe,LVA,2015,LVA_2015,85
+Latvia,Europe,LVA,2016,LVA_2016,84
+Latvia,Europe,LVA,2017,LVA_2017,87
+Latvia,Europe,LVA,2018,LVA_2018,84
+Latvia,Europe,LVA,2019,LVA_2019,84
+Latvia,Europe,LVA,2020,LVA_2020,91
+Lebanon,Asia,LBN,2017,LBN_2017,82
+Lebanon,Asia,LBN,2018,LBN_2018,82
+Lebanon,Asia,LBN,2019,LBN_2019,82
+Lebanon,Asia,LBN,2020,LBN_2020,74
+Lesotho,Africa,LSO,2015,LSO_2015,29
+Lesotho,Africa,LSO,2016,LSO_2016,87
+Lesotho,Africa,LSO,2017,LSO_2017,87
+Lesotho,Africa,LSO,2018,LSO_2018,87
+Lesotho,Africa,LSO,2019,LSO_2019,87
+Lesotho,Africa,LSO,2020,LSO_2020,87
+Liberia,Africa,LBR,2014,LBR_2014,25
+Liberia,Africa,LBR,2015,LBR_2015,36
+Liberia,Africa,LBR,2016,LBR_2016,73
+Liberia,Africa,LBR,2017,LBR_2017,78
+Liberia,Africa,LBR,2018,LBR_2018,78
+Liberia,Africa,LBR,2019,LBR_2019,68
+Liberia,Africa,LBR,2020,LBR_2020,65
+Libya,Africa,LBY,2014,LBY_2014,39
+Libya,Africa,LBY,2015,LBY_2015,71
+Libya,Africa,LBY,2016,LBY_2016,96
+Libya,Africa,LBY,2017,LBY_2017,94
+Libya,Africa,LBY,2018,LBY_2018,72
+Libya,Africa,LBY,2019,LBY_2019,73
+Libya,Africa,LBY,2020,LBY_2020,73
+Lithuania,Europe,LTU,2016,LTU_2016,82
+Lithuania,Europe,LTU,2017,LTU_2017,82
+Lithuania,Europe,LTU,2018,LTU_2018,82
+Lithuania,Europe,LTU,2019,LTU_2019,82
+Lithuania,Europe,LTU,2020,LTU_2020,83
+Luxembourg,Europe,LUX,2008,LUX_2008,86
+Luxembourg,Europe,LUX,2009,LUX_2009,86
+Luxembourg,Europe,LUX,2010,LUX_2010,86
+Luxembourg,Europe,LUX,2011,LUX_2011,86
+Luxembourg,Europe,LUX,2012,LUX_2012,95
+Luxembourg,Europe,LUX,2013,LUX_2013,95
+Luxembourg,Europe,LUX,2014,LUX_2014,95
+Luxembourg,Europe,LUX,2015,LUX_2015,95
+Luxembourg,Europe,LUX,2016,LUX_2016,95
+Luxembourg,Europe,LUX,2017,LUX_2017,95
+Luxembourg,Europe,LUX,2018,LUX_2018,96
+Luxembourg,Europe,LUX,2019,LUX_2019,96
+Luxembourg,Europe,LUX,2020,LUX_2020,96
+Madagascar,Africa,MDG,2013,MDG_2013,76
+Madagascar,Africa,MDG,2014,MDG_2014,68
+Madagascar,Africa,MDG,2015,MDG_2015,62
+Madagascar,Africa,MDG,2016,MDG_2016,65
+Madagascar,Africa,MDG,2017,MDG_2017,62
+Madagascar,Africa,MDG,2018,MDG_2018,63
+Madagascar,Africa,MDG,2019,MDG_2019,67
+Madagascar,Africa,MDG,2020,MDG_2020,65
+Malawi,Africa,MWI,2012,MWI_2012,99
+Malawi,Africa,MWI,2013,MWI_2013,89
+Malawi,Africa,MWI,2014,MWI_2014,87
+Malawi,Africa,MWI,2015,MWI_2015,88
+Malawi,Africa,MWI,2016,MWI_2016,83
+Malawi,Africa,MWI,2017,MWI_2017,88
+Malawi,Africa,MWI,2018,MWI_2018,92
+Malawi,Africa,MWI,2019,MWI_2019,95
+Malawi,Africa,MWI,2020,MWI_2020,93
+Mali,Africa,MLI,2011,MLI_2011,56
+Mali,Africa,MLI,2012,MLI_2012,58
+Mali,Africa,MLI,2013,MLI_2013,59
+Mali,Africa,MLI,2014,MLI_2014,57
+Mali,Africa,MLI,2015,MLI_2015,67
+Mali,Africa,MLI,2016,MLI_2016,76
+Mali,Africa,MLI,2017,MLI_2017,74
+Mali,Africa,MLI,2018,MLI_2018,74
+Mali,Africa,MLI,2019,MLI_2019,74
+Mali,Africa,MLI,2020,MLI_2020,66
+Marshall Islands,Oceania,MHL,2009,MHL_2009,49
+Marshall Islands,Oceania,MHL,2010,MHL_2010,24
+Marshall Islands,Oceania,MHL,2011,MHL_2011,35
+Marshall Islands,Oceania,MHL,2012,MHL_2012,46
+Marshall Islands,Oceania,MHL,2013,MHL_2013,38
+Marshall Islands,Oceania,MHL,2014,MHL_2014,29
+Marshall Islands,Oceania,MHL,2015,MHL_2015,75
+Marshall Islands,Oceania,MHL,2016,MHL_2016,65
+Marshall Islands,Oceania,MHL,2017,MHL_2017,72
+Marshall Islands,Oceania,MHL,2018,MHL_2018,67
+Marshall Islands,Oceania,MHL,2019,MHL_2019,63
+Mauritania,Africa,MRT,2013,MRT_2013,1
+Mauritania,Africa,MRT,2014,MRT_2014,71
+Mauritania,Africa,MRT,2015,MRT_2015,71
+Mauritania,Africa,MRT,2016,MRT_2016,73
+Mauritania,Africa,MRT,2017,MRT_2017,77
+Mauritania,Africa,MRT,2018,MRT_2018,77
+Mauritania,Africa,MRT,2019,MRT_2019,77
+Mauritania,Africa,MRT,2020,MRT_2020,70
+Mauritius,Africa,MUS,2016,MUS_2016,10
+Mauritius,Africa,MUS,2017,MUS_2017,84
+Mauritius,Africa,MUS,2018,MUS_2018,96
+Mauritius,Africa,MUS,2019,MUS_2019,97
+Mauritius,Africa,MUS,2020,MUS_2020,86
+Melanesia,Oceania,OWID_MNS,2008,OWID_MNS_2008,0
+Melanesia,Oceania,OWID_MNS,2009,OWID_MNS_2009,0
+Melanesia,Oceania,OWID_MNS,2010,OWID_MNS_2010,0
+Melanesia,Oceania,OWID_MNS,2011,OWID_MNS_2011,0
+Melanesia,Oceania,OWID_MNS,2012,OWID_MNS_2012,0
+Melanesia,Oceania,OWID_MNS,2013,OWID_MNS_2013,6
+Melanesia,Oceania,OWID_MNS,2014,OWID_MNS_2014,7
+Melanesia,Oceania,OWID_MNS,2015,OWID_MNS_2015,27
+Melanesia,Oceania,OWID_MNS,2016,OWID_MNS_2016,30
+Melanesia,Oceania,OWID_MNS,2017,OWID_MNS_2017,43
+Melanesia,Oceania,OWID_MNS,2018,OWID_MNS_2018,42
+Melanesia,Oceania,OWID_MNS,2019,OWID_MNS_2019,43
+Melanesia,Oceania,OWID_MNS,2020,OWID_MNS_2020,46
+Mexico,North America,MEX,2008,MEX_2008,14
+Mexico,North America,MEX,2009,MEX_2009,46
+Mexico,North America,MEX,2010,MEX_2010,92
+Mexico,North America,MEX,2011,MEX_2011,98
+Mexico,North America,MEX,2012,MEX_2012,99
+Mexico,North America,MEX,2013,MEX_2013,84
+Mexico,North America,MEX,2014,MEX_2014,94
+Mexico,North America,MEX,2015,MEX_2015,93
+Mexico,North America,MEX,2016,MEX_2016,92
+Mexico,North America,MEX,2017,MEX_2017,92
+Mexico,North America,MEX,2018,MEX_2018,88
+Mexico,North America,MEX,2019,MEX_2019,86
+Mexico,North America,MEX,2020,MEX_2020,75
+Micronesia (country),Oceania,FSM,2008,FSM_2008,0
+Micronesia (country),Oceania,FSM,2009,FSM_2009,11
+Micronesia (country),Oceania,FSM,2010,FSM_2010,70
+Micronesia (country),Oceania,FSM,2011,FSM_2011,63
+Micronesia (country),Oceania,FSM,2012,FSM_2012,60
+Micronesia (country),Oceania,FSM,2013,FSM_2013,61
+Micronesia (country),Oceania,FSM,2014,FSM_2014,64
+Micronesia (country),Oceania,FSM,2015,FSM_2015,67
+Micronesia (country),Oceania,FSM,2016,FSM_2016,63
+Micronesia (country),Oceania,FSM,2017,FSM_2017,65
+Micronesia (country),Oceania,FSM,2018,FSM_2018,67
+Micronesia (country),Oceania,FSM,2019,FSM_2019,73
+Micronesia (country),Oceania,FSM,2020,FSM_2020,79
+Middle Africa,Africa,MA,2008,MA_2008,0
+Middle Africa,Africa,MA,2009,MA_2009,0
+Middle Africa,Africa,MA,2010,MA_2010,0
+Middle Africa,Africa,MA,2011,MA_2011,8
+Middle Africa,Africa,MA,2012,MA_2012,20
+Middle Africa,Africa,MA,2013,MA_2013,32
+Middle Africa,Africa,MA,2014,MA_2014,52
+Middle Africa,Africa,MA,2015,MA_2015,58
+Middle Africa,Africa,MA,2016,MA_2016,53
+Middle Africa,Africa,MA,2017,MA_2017,52
+Middle Africa,Africa,MA,2018,MA_2018,53
+Middle Africa,Africa,MA,2019,MA_2019,52
+Middle Africa,Africa,MA,2020,MA_2020,51
+Moldova,Europe,MDA,2013,MDA_2013,1
+Moldova,Europe,MDA,2014,MDA_2014,28
+Moldova,Europe,MDA,2015,MDA_2015,72
+Moldova,Europe,MDA,2016,MDA_2016,77
+Moldova,Europe,MDA,2017,MDA_2017,79
+Moldova,Europe,MDA,2018,MDA_2018,85
+Moldova,Europe,MDA,2019,MDA_2019,80
+Moldova,Europe,MDA,2020,MDA_2020,72
+Mongolia,Asia,MNG,2017,MNG_2017,13
+Mongolia,Asia,MNG,2018,MNG_2018,26
+Mongolia,Asia,MNG,2019,MNG_2019,49
+Mongolia,Asia,MNG,2020,MNG_2020,92
+Morocco,Africa,MAR,2010,MAR_2010,1
+Morocco,Africa,MAR,2011,MAR_2011,23
+Morocco,Africa,MAR,2012,MAR_2012,72
+Morocco,Africa,MAR,2013,MAR_2013,80
+Morocco,Africa,MAR,2014,MAR_2014,90
+Morocco,Africa,MAR,2015,MAR_2015,95
+Morocco,Africa,MAR,2016,MAR_2016,98
+Morocco,Africa,MAR,2017,MAR_2017,99
+Morocco,Africa,MAR,2018,MAR_2018,99
+Morocco,Africa,MAR,2019,MAR_2019,98
+Mozambique,Africa,MOZ,2013,MOZ_2013,45
+Mozambique,Africa,MOZ,2014,MOZ_2014,73
+Mozambique,Africa,MOZ,2015,MOZ_2015,80
+Mozambique,Africa,MOZ,2016,MOZ_2016,80
+Mozambique,Africa,MOZ,2017,MOZ_2017,80
+Mozambique,Africa,MOZ,2018,MOZ_2018,80
+Mozambique,Africa,MOZ,2019,MOZ_2019,80
+Mozambique,Africa,MOZ,2020,MOZ_2020,65
+Myanmar,Asia,MMR,2016,MMR_2016,14
+Myanmar,Asia,MMR,2017,MMR_2017,89
+Myanmar,Asia,MMR,2018,MMR_2018,91
+Myanmar,Asia,MMR,2019,MMR_2019,90
+Myanmar,Asia,MMR,2020,MMR_2020,86
+Namibia,Africa,NAM,2015,NAM_2015,81
+Namibia,Africa,NAM,2016,NAM_2016,84
+Namibia,Africa,NAM,2017,NAM_2017,67
+Namibia,Africa,NAM,2018,NAM_2018,61
+Namibia,Africa,NAM,2019,NAM_2019,57
+Nepal,Asia,NPL,2015,NPL_2015,5
+Nepal,Asia,NPL,2016,NPL_2016,46
+Nepal,Asia,NPL,2017,NPL_2017,80
+Nepal,Asia,NPL,2018,NPL_2018,82
+Nepal,Asia,NPL,2019,NPL_2019,83
+Nepal,Asia,NPL,2020,NPL_2020,80
+Netherlands,Europe,NLD,2009,NLD_2009,96
+Netherlands,Europe,NLD,2010,NLD_2010,96
+Netherlands,Europe,NLD,2011,NLD_2011,96
+Netherlands,Europe,NLD,2012,NLD_2012,96
+Netherlands,Europe,NLD,2013,NLD_2013,96
+Netherlands,Europe,NLD,2014,NLD_2014,95
+Netherlands,Europe,NLD,2015,NLD_2015,94
+Netherlands,Europe,NLD,2016,NLD_2016,94
+Netherlands,Europe,NLD,2017,NLD_2017,93
+Netherlands,Europe,NLD,2018,NLD_2018,93
+Netherlands,Europe,NLD,2019,NLD_2019,93
+Netherlands,Europe,NLD,2020,NLD_2020,93
+New Zealand,Oceania,NZL,2009,NZL_2009,87
+New Zealand,Oceania,NZL,2010,NZL_2010,89
+New Zealand,Oceania,NZL,2011,NZL_2011,92
+New Zealand,Oceania,NZL,2012,NZL_2012,92
+New Zealand,Oceania,NZL,2013,NZL_2013,93
+New Zealand,Oceania,NZL,2014,NZL_2014,93
+New Zealand,Oceania,NZL,2015,NZL_2015,93
+New Zealand,Oceania,NZL,2016,NZL_2016,93
+New Zealand,Oceania,NZL,2017,NZL_2017,94
+New Zealand,Oceania,NZL,2018,NZL_2018,96
+New Zealand,Oceania,NZL,2019,NZL_2019,91
+New Zealand,Oceania,NZL,2020,NZL_2020,92
+Nicaragua,North America,NIC,2011,NIC_2011,61
+Nicaragua,North America,NIC,2012,NIC_2012,98
+Nicaragua,North America,NIC,2013,NIC_2013,98
+Nicaragua,North America,NIC,2014,NIC_2014,98
+Nicaragua,North America,NIC,2015,NIC_2015,98
+Nicaragua,North America,NIC,2016,NIC_2016,98
+Nicaragua,North America,NIC,2017,NIC_2017,98
+Nicaragua,North America,NIC,2018,NIC_2018,98
+Nicaragua,North America,NIC,2019,NIC_2019,98
+Nicaragua,North America,NIC,2020,NIC_2020,92
+Niger,Africa,NER,2014,NER_2014,13
+Niger,Africa,NER,2015,NER_2015,49
+Niger,Africa,NER,2016,NER_2016,76
+Niger,Africa,NER,2017,NER_2017,85
+Niger,Africa,NER,2018,NER_2018,79
+Niger,Africa,NER,2019,NER_2019,81
+Niger,Africa,NER,2020,NER_2020,81
+Nigeria,Africa,NGA,2015,NGA_2015,36
+Nigeria,Africa,NGA,2016,NGA_2016,49
+Nigeria,Africa,NGA,2017,NGA_2017,53
+Nigeria,Africa,NGA,2018,NGA_2018,55
+Nigeria,Africa,NGA,2019,NGA_2019,57
+Nigeria,Africa,NGA,2020,NGA_2020,57
+Niue,Oceania,NIU,2009,NIU_2009,99
+Niue,Oceania,NIU,2010,NIU_2010,99
+Niue,Oceania,NIU,2011,NIU_2011,99
+Niue,Oceania,NIU,2012,NIU_2012,99
+Niue,Oceania,NIU,2013,NIU_2013,99
+Niue,Oceania,NIU,2014,NIU_2014,99
+Niue,Oceania,NIU,2015,NIU_2015,99
+Niue,Oceania,NIU,2016,NIU_2016,99
+Niue,Oceania,NIU,2017,NIU_2017,99
+Niue,Oceania,NIU,2018,NIU_2018,99
+Niue,Oceania,NIU,2019,NIU_2019,99
+North Macedonia,Europe,MKD,2020,MKD_2020,30
+Northern Africa,Africa,N-AF,2008,NA_2008,0
+Northern Africa,Africa,N-AF,2009,NA_2009,0
+Northern Africa,Africa,N-AF,2010,NA_2010,0
+Northern Africa,Africa,N-AF,2011,NA_2011,3
+Northern Africa,Africa,N-AF,2012,NA_2012,9
+Northern Africa,Africa,N-AF,2013,NA_2013,16
+Northern Africa,Africa,N-AF,2014,NA_2014,32
+Northern Africa,Africa,N-AF,2015,NA_2015,33
+Northern Africa,Africa,N-AF,2016,NA_2016,44
+Northern Africa,Africa,N-AF,2017,NA_2017,49
+Northern Africa,Africa,N-AF,2018,NA_2018,49
+Northern Africa,Africa,N-AF,2019,NA_2019,49
+Northern Africa,Africa,N-AF,2020,NA_2020,51
+Northern Africa (exc. Sudan),Africa,N-AF,2008,NA_2008,0
+Northern Africa (exc. Sudan),Africa,N-AF,2009,NA_2009,0
+Northern Africa (exc. Sudan),Africa,N-AF,2010,NA_2010,0
+Northern Africa (exc. Sudan),Africa,N-AF,2011,NA_2011,4
+Northern Africa (exc. Sudan),Africa,N-AF,2012,NA_2012,11
+Northern Africa (exc. Sudan),Africa,N-AF,2013,NA_2013,12
+Northern Africa (exc. Sudan),Africa,N-AF,2014,NA_2014,15
+Northern Africa (exc. Sudan),Africa,N-AF,2015,NA_2015,16
+Northern Africa (exc. Sudan),Africa,N-AF,2016,NA_2016,31
+Northern Africa (exc. Sudan),Africa,N-AF,2017,NA_2017,37
+Northern Africa (exc. Sudan),Africa,N-AF,2018,NA_2018,37
+Northern Africa (exc. Sudan),Africa,N-AF,2019,NA_2019,36
+Northern Africa (exc. Sudan),Africa,N-AF,2020,NA_2020,40
+Northern America,North America,N-A,2008,NA_2008,89
+Northern America,North America,N-A,2009,NA_2009,89
+Northern America,North America,N-A,2010,NA_2010,90
+Northern America,North America,N-A,2011,NA_2011,92
+Northern America,North America,N-A,2012,NA_2012,90
+Northern America,North America,N-A,2013,NA_2013,91
+Northern America,North America,N-A,2014,NA_2014,92
+Northern America,North America,N-A,2015,NA_2015,92
+Northern America,North America,N-A,2016,NA_2016,92
+Northern America,North America,N-A,2017,NA_2017,91
+Northern America,North America,N-A,2018,NA_2018,91
+Northern America,North America,N-A,2019,NA_2019,91
+Northern America,North America,N-A,2020,NA_2020,82
+Northern Europe,Europe,NE,2008,NE_2008,10
+Northern Europe,Europe,NE,2009,NE_2009,18
+Northern Europe,Europe,NE,2010,NE_2010,82
+Northern Europe,Europe,NE,2011,NE_2011,87
+Northern Europe,Europe,NE,2012,NE_2012,88
+Northern Europe,Europe,NE,2013,NE_2013,90
+Northern Europe,Europe,NE,2014,NE_2014,89
+Northern Europe,Europe,NE,2015,NE_2015,90
+Northern Europe,Europe,NE,2016,NE_2016,91
+Northern Europe,Europe,NE,2017,NE_2017,91
+Northern Europe,Europe,NE,2018,NE_2018,91
+Northern Europe,Europe,NE,2019,NE_2019,90
+Northern Europe,Europe,NE,2020,NE_2020,91
+Norway,Europe,NOR,2008,NOR_2008,86
+Norway,Europe,NOR,2009,NOR_2009,91
+Norway,Europe,NOR,2010,NOR_2010,91
+Norway,Europe,NOR,2011,NOR_2011,92
+Norway,Europe,NOR,2012,NOR_2012,93
+Norway,Europe,NOR,2013,NOR_2013,93
+Norway,Europe,NOR,2014,NOR_2014,91
+Norway,Europe,NOR,2015,NOR_2015,93
+Norway,Europe,NOR,2016,NOR_2016,94
+Norway,Europe,NOR,2017,NOR_2017,94
+Norway,Europe,NOR,2018,NOR_2018,94
+Norway,Europe,NOR,2019,NOR_2019,95
+Norway,Europe,NOR,2020,NOR_2020,96
+Oceania,Oceania,Oce,2008,Oce_2008,43
+Oceania,Oceania,Oce,2009,Oce_2009,52
+Oceania,Oceania,Oce,2010,Oce_2010,53
+Oceania,Oceania,Oce,2011,Oce_2011,53
+Oceania,Oceania,Oce,2012,Oce_2012,53
+Oceania,Oceania,Oce,2013,Oce_2013,56
+Oceania,Oceania,Oce,2014,Oce_2014,56
+Oceania,Oceania,Oce,2015,Oce_2015,65
+Oceania,Oceania,Oce,2016,Oce_2016,67
+Oceania,Oceania,Oce,2017,Oce_2017,72
+Oceania,Oceania,Oce,2018,Oce_2018,72
+Oceania,Oceania,Oce,2019,Oce_2019,72
+Oceania,Oceania,Oce,2020,Oce_2020,74
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2008,Oce_2008,0
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2009,Oce_2009,0
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2010,Oce_2010,1
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2011,Oce_2011,1
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2012,Oce_2012,1
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2013,Oce_2013,7
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2014,Oce_2014,8
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2015,Oce_2015,27
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2016,Oce_2016,30
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2017,Oce_2017,42
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2018,Oce_2018,42
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2019,Oce_2019,43
+Oceania (exc. Australia and New Zealand),Oceania,Oce,2020,Oce_2020,45
+Oman,Asia,OMN,2009,OMN_2009,96
+Oman,Asia,OMN,2010,OMN_2010,99
+Oman,Asia,OMN,2011,OMN_2011,99
+Oman,Asia,OMN,2012,OMN_2012,99
+Oman,Asia,OMN,2013,OMN_2013,99
+Oman,Asia,OMN,2014,OMN_2014,98
+Oman,Asia,OMN,2015,OMN_2015,98
+Oman,Asia,OMN,2016,OMN_2016,99
+Oman,Asia,OMN,2017,OMN_2017,99
+Oman,Asia,OMN,2018,OMN_2018,99
+Oman,Asia,OMN,2019,OMN_2019,99
+Oman,Asia,OMN,2020,OMN_2020,99
+Pakistan,Asia,PAK,2013,PAK_2013,65
+Pakistan,Asia,PAK,2014,PAK_2014,68
+Pakistan,Asia,PAK,2015,PAK_2015,80
+Pakistan,Asia,PAK,2016,PAK_2016,78
+Pakistan,Asia,PAK,2017,PAK_2017,81
+Pakistan,Asia,PAK,2018,PAK_2018,81
+Pakistan,Asia,PAK,2019,PAK_2019,81
+Pakistan,Asia,PAK,2020,PAK_2020,80
+Palau,Oceania,PLW,2008,PLW_2008,7
+Palau,Oceania,PLW,2009,PLW_2009,18
+Palau,Oceania,PLW,2010,PLW_2010,45
+Palau,Oceania,PLW,2011,PLW_2011,61
+Palau,Oceania,PLW,2012,PLW_2012,82
+Palau,Oceania,PLW,2013,PLW_2013,93
+Palau,Oceania,PLW,2014,PLW_2014,93
+Palau,Oceania,PLW,2015,PLW_2015,95
+Palau,Oceania,PLW,2016,PLW_2016,98
+Palau,Oceania,PLW,2017,PLW_2017,89
+Palau,Oceania,PLW,2018,PLW_2018,82
+Palau,Oceania,PLW,2019,PLW_2019,74
+Palau,Oceania,PLW,2020,PLW_2020,75
+Palestine,Asia,PSE,2012,PSE_2012,25
+Palestine,Asia,PSE,2013,PSE_2013,97
+Palestine,Asia,PSE,2014,PSE_2014,99
+Palestine,Asia,PSE,2015,PSE_2015,99
+Palestine,Asia,PSE,2016,PSE_2016,99
+Palestine,Asia,PSE,2017,PSE_2017,99
+Palestine,Asia,PSE,2018,PSE_2018,96
+Palestine,Asia,PSE,2019,PSE_2019,99
+Palestine,Asia,PSE,2020,PSE_2020,99
+Panama,North America,PAN,2010,PAN_2010,48
+Panama,North America,PAN,2011,PAN_2011,63
+Panama,North America,PAN,2012,PAN_2012,76
+Panama,North America,PAN,2013,PAN_2013,88
+Panama,North America,PAN,2014,PAN_2014,91
+Panama,North America,PAN,2015,PAN_2015,92
+Panama,North America,PAN,2016,PAN_2016,94
+Panama,North America,PAN,2017,PAN_2017,97
+Panama,North America,PAN,2018,PAN_2018,97
+Panama,North America,PAN,2019,PAN_2019,96
+Panama,North America,PAN,2020,PAN_2020,74
+Papua New Guinea,Oceania,PNG,2015,PNG_2015,20
+Papua New Guinea,Oceania,PNG,2016,PNG_2016,20
+Papua New Guinea,Oceania,PNG,2017,PNG_2017,36
+Papua New Guinea,Oceania,PNG,2018,PNG_2018,35
+Papua New Guinea,Oceania,PNG,2019,PNG_2019,35
+Papua New Guinea,Oceania,PNG,2020,PNG_2020,39
+Paraguay,South America,PRY,2012,PRY_2012,82
+Paraguay,South America,PRY,2013,PRY_2013,90
+Paraguay,South America,PRY,2014,PRY_2014,86
+Paraguay,South America,PRY,2015,PRY_2015,90
+Paraguay,South America,PRY,2016,PRY_2016,99
+Paraguay,South America,PRY,2017,PRY_2017,93
+Paraguay,South America,PRY,2018,PRY_2018,94
+Paraguay,South America,PRY,2019,PRY_2019,89
+Paraguay,South America,PRY,2020,PRY_2020,82
+Peru,South America,PER,2009,PER_2009,9
+Peru,South America,PER,2010,PER_2010,83
+Peru,South America,PER,2011,PER_2011,82
+Peru,South America,PER,2012,PER_2012,89
+Peru,South America,PER,2013,PER_2013,85
+Peru,South America,PER,2014,PER_2014,86
+Peru,South America,PER,2015,PER_2015,90
+Peru,South America,PER,2016,PER_2016,86
+Peru,South America,PER,2017,PER_2017,80
+Peru,South America,PER,2018,PER_2018,82
+Peru,South America,PER,2019,PER_2019,80
+Peru,South America,PER,2020,PER_2020,74
+Philippines,Asia,PHL,2014,PHL_2014,35
+Philippines,Asia,PHL,2015,PHL_2015,17
+Philippines,Asia,PHL,2016,PHL_2016,36
+Philippines,Asia,PHL,2017,PHL_2017,36
+Philippines,Asia,PHL,2018,PHL_2018,43
+Philippines,Asia,PHL,2019,PHL_2019,51
+Philippines,Asia,PHL,2020,PHL_2020,66
+Poland,Europe,POL,2018,POL_2018,60
+Poland,Europe,POL,2019,POL_2019,60
+Poland,Europe,POL,2020,POL_2020,62
+Polynesia,Oceania,OWID_PYA,2008,OWID_PYA_2008,0
+Polynesia,Oceania,OWID_PYA,2009,OWID_PYA_2009,0
+Polynesia,Oceania,OWID_PYA,2010,OWID_PYA_2010,0
+Polynesia,Oceania,OWID_PYA,2011,OWID_PYA_2011,0
+Polynesia,Oceania,OWID_PYA,2012,OWID_PYA_2012,0
+Polynesia,Oceania,OWID_PYA,2013,OWID_PYA_2013,0
+Polynesia,Oceania,OWID_PYA,2014,OWID_PYA_2014,0
+Polynesia,Oceania,OWID_PYA,2015,OWID_PYA_2015,0
+Polynesia,Oceania,OWID_PYA,2016,OWID_PYA_2016,0
+Polynesia,Oceania,OWID_PYA,2017,OWID_PYA_2017,0
+Polynesia,Oceania,OWID_PYA,2018,OWID_PYA_2018,0
+Polynesia,Oceania,OWID_PYA,2019,OWID_PYA_2019,0
+Polynesia,Oceania,OWID_PYA,2020,OWID_PYA_2020,0
+Portugal,Europe,PRT,2016,PRT_2016,73
+Portugal,Europe,PRT,2017,PRT_2017,96
+Portugal,Europe,PRT,2018,PRT_2018,98
+Portugal,Europe,PRT,2019,PRT_2019,98
+Portugal,Europe,PRT,2020,PRT_2020,98
+Qatar,Asia,QAT,2009,QAT_2009,99
+Qatar,Asia,QAT,2010,QAT_2010,97
+Qatar,Asia,QAT,2011,QAT_2011,98
+Qatar,Asia,QAT,2012,QAT_2012,92
+Qatar,Asia,QAT,2013,QAT_2013,99
+Qatar,Asia,QAT,2014,QAT_2014,94
+Qatar,Asia,QAT,2015,QAT_2015,95
+Qatar,Asia,QAT,2016,QAT_2016,97
+Qatar,Asia,QAT,2017,QAT_2017,98
+Qatar,Asia,QAT,2018,QAT_2018,98
+Qatar,Asia,QAT,2019,QAT_2019,98
+Qatar,Asia,QAT,2020,QAT_2020,70
+Romania,Europe,ROU,2019,ROU_2019,88
+Romania,Europe,ROU,2020,ROU_2020,85
+Russia,Asia,RUS,2016,RUS_2016,35
+Russia,Asia,RUS,2017,RUS_2017,70
+Russia,Asia,RUS,2018,RUS_2018,82
+Russia,Asia,RUS,2019,RUS_2019,85
+Russia,Asia,RUS,2020,RUS_2020,87
+Rwanda,Africa,RWA,2010,RWA_2010,97
+Rwanda,Africa,RWA,2011,RWA_2011,97
+Rwanda,Africa,RWA,2012,RWA_2012,98
+Rwanda,Africa,RWA,2013,RWA_2013,98
+Rwanda,Africa,RWA,2014,RWA_2014,98
+Rwanda,Africa,RWA,2015,RWA_2015,98
+Rwanda,Africa,RWA,2016,RWA_2016,98
+Rwanda,Africa,RWA,2017,RWA_2017,98
+Rwanda,Africa,RWA,2018,RWA_2018,97
+Rwanda,Africa,RWA,2019,RWA_2019,98
+Rwanda,Africa,RWA,2020,RWA_2020,91
+San Marino,Europe,SMR,2016,SMR_2016,53
+San Marino,Europe,SMR,2017,SMR_2017,56
+San Marino,Europe,SMR,2018,SMR_2018,58
+San Marino,Europe,SMR,2019,SMR_2019,76
+San Marino,Europe,SMR,2020,SMR_2020,82
+Sao Tome and Principe,Africa,STP,2013,STP_2013,97
+Sao Tome and Principe,Africa,STP,2014,STP_2014,95
+Sao Tome and Principe,Africa,STP,2015,STP_2015,96
+Sao Tome and Principe,Africa,STP,2016,STP_2016,96
+Sao Tome and Principe,Africa,STP,2017,STP_2017,95
+Sao Tome and Principe,Africa,STP,2018,STP_2018,95
+Sao Tome and Principe,Africa,STP,2019,STP_2019,95
+Saudi Arabia,Asia,SAU,2009,SAU_2009,98
+Saudi Arabia,Asia,SAU,2010,SAU_2010,98
+Saudi Arabia,Asia,SAU,2011,SAU_2011,98
+Saudi Arabia,Asia,SAU,2012,SAU_2012,98
+Saudi Arabia,Asia,SAU,2013,SAU_2013,98
+Saudi Arabia,Asia,SAU,2014,SAU_2014,98
+Saudi Arabia,Asia,SAU,2015,SAU_2015,98
+Saudi Arabia,Asia,SAU,2016,SAU_2016,98
+Saudi Arabia,Asia,SAU,2017,SAU_2017,98
+Saudi Arabia,Asia,SAU,2018,SAU_2018,98
+Saudi Arabia,Asia,SAU,2019,SAU_2019,96
+Saudi Arabia,Asia,SAU,2020,SAU_2020,95
+Senegal,Africa,SEN,2014,SEN_2014,81
+Senegal,Africa,SEN,2015,SEN_2015,89
+Senegal,Africa,SEN,2016,SEN_2016,93
+Senegal,Africa,SEN,2017,SEN_2017,92
+Senegal,Africa,SEN,2018,SEN_2018,92
+Senegal,Africa,SEN,2019,SEN_2019,96
+Senegal,Africa,SEN,2020,SEN_2020,92
+Serbia,Europe,SRB,2018,SRB_2018,67
+Serbia,Europe,SRB,2019,SRB_2019,92
+Serbia,Europe,SRB,2020,SRB_2020,87
+Seychelles,Africa,SYC,2018,SYC_2018,16
+Seychelles,Africa,SYC,2019,SYC_2019,92
+Seychelles,Africa,SYC,2020,SYC_2020,94
+Sierra Leone,Africa,SLE,2011,SLE_2011,75
+Sierra Leone,Africa,SLE,2012,SLE_2012,92
+Sierra Leone,Africa,SLE,2013,SLE_2013,92
+Sierra Leone,Africa,SLE,2014,SLE_2014,83
+Sierra Leone,Africa,SLE,2015,SLE_2015,86
+Sierra Leone,Africa,SLE,2016,SLE_2016,84
+Sierra Leone,Africa,SLE,2017,SLE_2017,90
+Sierra Leone,Africa,SLE,2018,SLE_2018,92
+Sierra Leone,Africa,SLE,2019,SLE_2019,94
+Sierra Leone,Africa,SLE,2020,SLE_2020,91
+Singapore,Asia,SGP,2009,SGP_2009,17
+Singapore,Asia,SGP,2010,SGP_2010,22
+Singapore,Asia,SGP,2011,SGP_2011,40
+Singapore,Asia,SGP,2012,SGP_2012,52
+Singapore,Asia,SGP,2013,SGP_2013,60
+Singapore,Asia,SGP,2014,SGP_2014,68
+Singapore,Asia,SGP,2015,SGP_2015,75
+Singapore,Asia,SGP,2016,SGP_2016,78
+Singapore,Asia,SGP,2017,SGP_2017,83
+Singapore,Asia,SGP,2018,SGP_2018,82
+Singapore,Asia,SGP,2019,SGP_2019,82
+Slovakia,Europe,SVK,2009,SVK_2009,99
+Slovakia,Europe,SVK,2010,SVK_2010,99
+Slovakia,Europe,SVK,2011,SVK_2011,99
+Slovakia,Europe,SVK,2012,SVK_2012,99
+Slovakia,Europe,SVK,2013,SVK_2013,98
+Slovakia,Europe,SVK,2014,SVK_2014,96
+Slovakia,Europe,SVK,2015,SVK_2015,96
+Slovakia,Europe,SVK,2016,SVK_2016,96
+Slovakia,Europe,SVK,2017,SVK_2017,96
+Slovakia,Europe,SVK,2018,SVK_2018,96
+Slovakia,Europe,SVK,2019,SVK_2019,96
+Slovakia,Europe,SVK,2020,SVK_2020,96
+Slovenia,Europe,SVN,2015,SVN_2015,49
+Slovenia,Europe,SVN,2016,SVN_2016,49
+Slovenia,Europe,SVN,2017,SVN_2017,55
+Slovenia,Europe,SVN,2018,SVN_2018,60
+Slovenia,Europe,SVN,2019,SVN_2019,65
+Slovenia,Europe,SVN,2020,SVN_2020,70
+Solomon Islands,Oceania,SLB,2015,SLB_2015,42
+Solomon Islands,Oceania,SLB,2016,SLB_2016,87
+Solomon Islands,Oceania,SLB,2017,SLB_2017,81
+Solomon Islands,Oceania,SLB,2018,SLB_2018,84
+Solomon Islands,Oceania,SLB,2019,SLB_2019,94
+Solomon Islands,Oceania,SLB,2020,SLB_2020,93
+South Africa,Africa,ZAF,2009,ZAF_2009,10
+South Africa,Africa,ZAF,2010,ZAF_2010,58
+South Africa,Africa,ZAF,2011,ZAF_2011,62
+South Africa,Africa,ZAF,2012,ZAF_2012,75
+South Africa,Africa,ZAF,2013,ZAF_2013,77
+South Africa,Africa,ZAF,2014,ZAF_2014,85
+South Africa,Africa,ZAF,2015,ZAF_2015,85
+South Africa,Africa,ZAF,2016,ZAF_2016,82
+South Africa,Africa,ZAF,2017,ZAF_2017,78
+South Africa,Africa,ZAF,2018,ZAF_2018,83
+South Africa,Africa,ZAF,2019,ZAF_2019,86
+South Africa,Africa,ZAF,2020,ZAF_2020,83
+South America,South America,SA,2008,SA_2008,0
+South America,South America,SA,2009,SA_2009,1
+South America,South America,SA,2010,SA_2010,22
+South America,South America,SA,2011,SA_2011,55
+South America,South America,SA,2012,SA_2012,71
+South America,South America,SA,2013,SA_2013,79
+South America,South America,SA,2014,SA_2014,82
+South America,South America,SA,2015,SA_2015,85
+South America,South America,SA,2016,SA_2016,79
+South America,South America,SA,2017,SA_2017,77
+South America,South America,SA,2018,SA_2018,79
+South America,South America,SA,2019,SA_2019,78
+South America,South America,SA,2020,SA_2020,73
+South Korea,Asia,KOR,2015,KOR_2015,97
+South Korea,Asia,KOR,2016,KOR_2016,98
+South Korea,Asia,KOR,2017,KOR_2017,97
+South Korea,Asia,KOR,2018,KOR_2018,97
+South Korea,Asia,KOR,2019,KOR_2019,98
+South-east Asia,Asia,SA,2008,SA_2008,0
+South-east Asia,Asia,SA,2009,SA_2009,0
+South-east Asia,Asia,SA,2010,SA_2010,0
+South-east Asia,Asia,SA,2011,SA_2011,0
+South-east Asia,Asia,SA,2012,SA_2012,0
+South-east Asia,Asia,SA,2013,SA_2013,0
+South-east Asia,Asia,SA,2014,SA_2014,0
+South-east Asia,Asia,SA,2015,SA_2015,4
+South-east Asia,Asia,SA,2016,SA_2016,9
+South-east Asia,Asia,SA,2017,SA_2017,12
+South-east Asia,Asia,SA,2018,SA_2018,16
+South-east Asia,Asia,SA,2019,SA_2019,23
+South-east Asia,Asia,SA,2020,SA_2020,27
+South-eastern Asia,Asia,SA,2008,SA_2008,0
+South-eastern Asia,Asia,SA,2009,SA_2009,0
+South-eastern Asia,Asia,SA,2010,SA_2010,0
+South-eastern Asia,Asia,SA,2011,SA_2011,0
+South-eastern Asia,Asia,SA,2012,SA_2012,0
+South-eastern Asia,Asia,SA,2013,SA_2013,0
+South-eastern Asia,Asia,SA,2014,SA_2014,8
+South-eastern Asia,Asia,SA,2015,SA_2015,7
+South-eastern Asia,Asia,SA,2016,SA_2016,12
+South-eastern Asia,Asia,SA,2017,SA_2017,18
+South-eastern Asia,Asia,SA,2018,SA_2018,20
+South-eastern Asia,Asia,SA,2019,SA_2019,23
+South-eastern Asia,Asia,SA,2020,SA_2020,26
+Southern Africa,Africa,SA,2008,SA_2008,0
+Southern Africa,Africa,SA,2009,SA_2009,9
+Southern Africa,Africa,SA,2010,SA_2010,49
+Southern Africa,Africa,SA,2011,SA_2011,53
+Southern Africa,Africa,SA,2012,SA_2012,66
+Southern Africa,Africa,SA,2013,SA_2013,68
+Southern Africa,Africa,SA,2014,SA_2014,78
+Southern Africa,Africa,SA,2015,SA_2015,83
+Southern Africa,Africa,SA,2016,SA_2016,83
+Southern Africa,Africa,SA,2017,SA_2017,78
+Southern Africa,Africa,SA,2018,SA_2018,82
+Southern Africa,Africa,SA,2019,SA_2019,85
+Southern Africa,Africa,SA,2020,SA_2020,82
+Southern Asia,Asia,SA,2008,SA_2008,0
+Southern Asia,Asia,SA,2009,SA_2009,0
+Southern Asia,Asia,SA,2010,SA_2010,0
+Southern Asia,Asia,SA,2011,SA_2011,0
+Southern Asia,Asia,SA,2012,SA_2012,0
+Southern Asia,Asia,SA,2013,SA_2013,10
+Southern Asia,Asia,SA,2014,SA_2014,12
+Southern Asia,Asia,SA,2015,SA_2015,18
+Southern Asia,Asia,SA,2016,SA_2016,23
+Southern Asia,Asia,SA,2017,SA_2017,24
+Southern Asia,Asia,SA,2018,SA_2018,28
+Southern Asia,Asia,SA,2019,SA_2019,34
+Southern Asia,Asia,SA,2020,SA_2020,38
+Southern Europe,Europe,SE,2008,SE_2008,22
+Southern Europe,Europe,SE,2009,SE_2009,24
+Southern Europe,Europe,SE,2010,SE_2010,26
+Southern Europe,Europe,SE,2011,SE_2011,31
+Southern Europe,Europe,SE,2012,SE_2012,35
+Southern Europe,Europe,SE,2013,SE_2013,37
+Southern Europe,Europe,SE,2014,SE_2014,41
+Southern Europe,Europe,SE,2015,SE_2015,43
+Southern Europe,Europe,SE,2016,SE_2016,47
+Southern Europe,Europe,SE,2017,SE_2017,77
+Southern Europe,Europe,SE,2018,SE_2018,84
+Southern Europe,Europe,SE,2019,SE_2019,86
+Southern Europe,Europe,SE,2020,SE_2020,84
+Spain,Europe,ESP,2017,ESP_2017,88
+Spain,Europe,ESP,2018,ESP_2018,95
+Spain,Europe,ESP,2019,ESP_2019,95
+Spain,Europe,ESP,2020,ESP_2020,88
+Sub-Saharan Africa,Africa,SA,2008,SA_2008,0
+Sub-Saharan Africa,Africa,SA,2009,SA_2009,0
+Sub-Saharan Africa,Africa,SA,2010,SA_2010,4
+Sub-Saharan Africa,Africa,SA,2011,SA_2011,12
+Sub-Saharan Africa,Africa,SA,2012,SA_2012,21
+Sub-Saharan Africa,Africa,SA,2013,SA_2013,34
+Sub-Saharan Africa,Africa,SA,2014,SA_2014,49
+Sub-Saharan Africa,Africa,SA,2015,SA_2015,60
+Sub-Saharan Africa,Africa,SA,2016,SA_2016,65
+Sub-Saharan Africa,Africa,SA,2017,SA_2017,67
+Sub-Saharan Africa,Africa,SA,2018,SA_2018,68
+Sub-Saharan Africa,Africa,SA,2019,SA_2019,68
+Sub-Saharan Africa,Africa,SA,2020,SA_2020,67
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2008,SA_2008,0
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2009,SA_2009,0
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2010,SA_2010,3
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2011,SA_2011,12
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2012,SA_2012,20
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2013,SA_2013,34
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2014,SA_2014,50
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2015,SA_2015,62
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2016,SA_2016,66
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2017,SA_2017,68
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2018,SA_2018,69
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2019,SA_2019,69
+Sub-Saharan Africa (inc. Sudan),Africa,SA,2020,SA_2020,67
+Sudan,Africa,SDN,2013,SDN_2013,30
+Sudan,Africa,SDN,2014,SDN_2014,97
+Sudan,Africa,SDN,2015,SDN_2015,93
+Sudan,Africa,SDN,2016,SDN_2016,93
+Sudan,Africa,SDN,2017,SDN_2017,95
+Sudan,Africa,SDN,2018,SDN_2018,93
+Sudan,Africa,SDN,2019,SDN_2019,93
+Sudan,Africa,SDN,2020,SDN_2020,90
+Sweden,Europe,SWE,2008,SWE_2008,60
+Sweden,Europe,SWE,2009,SWE_2009,98
+Sweden,Europe,SWE,2010,SWE_2010,98
+Sweden,Europe,SWE,2011,SWE_2011,98
+Sweden,Europe,SWE,2012,SWE_2012,97
+Sweden,Europe,SWE,2013,SWE_2013,97
+Sweden,Europe,SWE,2014,SWE_2014,96
+Sweden,Europe,SWE,2015,SWE_2015,97
+Sweden,Europe,SWE,2016,SWE_2016,97
+Sweden,Europe,SWE,2017,SWE_2017,97
+Sweden,Europe,SWE,2018,SWE_2018,97
+Sweden,Europe,SWE,2019,SWE_2019,97
+Sweden,Europe,SWE,2020,SWE_2020,97
+Switzerland,Europe,CHE,2008,CHE_2008,13
+Switzerland,Europe,CHE,2009,CHE_2009,25
+Switzerland,Europe,CHE,2010,CHE_2010,37
+Switzerland,Europe,CHE,2011,CHE_2011,50
+Switzerland,Europe,CHE,2012,CHE_2012,62
+Switzerland,Europe,CHE,2013,CHE_2013,75
+Switzerland,Europe,CHE,2014,CHE_2014,80
+Switzerland,Europe,CHE,2015,CHE_2015,80
+Switzerland,Europe,CHE,2016,CHE_2016,80
+Switzerland,Europe,CHE,2017,CHE_2017,84
+Switzerland,Europe,CHE,2018,CHE_2018,84
+Switzerland,Europe,CHE,2019,CHE_2019,84
+Switzerland,Europe,CHE,2020,CHE_2020,86
+Tanzania,Africa,TZA,2013,TZA_2013,80
+Tanzania,Africa,TZA,2014,TZA_2014,93
+Tanzania,Africa,TZA,2015,TZA_2015,92
+Tanzania,Africa,TZA,2016,TZA_2016,89
+Tanzania,Africa,TZA,2017,TZA_2017,86
+Tanzania,Africa,TZA,2018,TZA_2018,84
+Tanzania,Africa,TZA,2019,TZA_2019,83
+Tanzania,Africa,TZA,2020,TZA_2020,80
+Togo,Africa,TGO,2014,TGO_2014,25
+Togo,Africa,TGO,2015,TGO_2015,77
+Togo,Africa,TGO,2016,TGO_2016,82
+Togo,Africa,TGO,2017,TGO_2017,83
+Togo,Africa,TGO,2018,TGO_2018,81
+Togo,Africa,TGO,2019,TGO_2019,83
+Togo,Africa,TGO,2020,TGO_2020,82
+Trinidad and Tobago,North America,TTO,2012,TTO_2012,39
+Trinidad and Tobago,North America,TTO,2013,TTO_2013,80
+Trinidad and Tobago,North America,TTO,2014,TTO_2014,95
+Trinidad and Tobago,North America,TTO,2015,TTO_2015,93
+Trinidad and Tobago,North America,TTO,2016,TTO_2016,91
+Trinidad and Tobago,North America,TTO,2017,TTO_2017,93
+Trinidad and Tobago,North America,TTO,2018,TTO_2018,99
+Trinidad and Tobago,North America,TTO,2019,TTO_2019,93
+Tunisia,Africa,TUN,2020,TUN_2020,82
+Turkey,Asia,TUR,2009,TUR_2009,97
+Turkey,Asia,TUR,2010,TUR_2010,93
+Turkey,Asia,TUR,2011,TUR_2011,96
+Turkey,Asia,TUR,2012,TUR_2012,97
+Turkey,Asia,TUR,2013,TUR_2013,97
+Turkey,Asia,TUR,2014,TUR_2014,96
+Turkey,Asia,TUR,2015,TUR_2015,97
+Turkey,Asia,TUR,2016,TUR_2016,98
+Turkey,Asia,TUR,2017,TUR_2017,96
+Turkey,Asia,TUR,2018,TUR_2018,97
+Turkey,Asia,TUR,2019,TUR_2019,97
+Turkey,Asia,TUR,2020,TUR_2020,95
+Turkmenistan,Asia,TKM,2020,TKM_2020,23
+Uganda,Africa,UGA,2014,UGA_2014,60
+Uganda,Africa,UGA,2015,UGA_2015,64
+Uganda,Africa,UGA,2016,UGA_2016,77
+Uganda,Africa,UGA,2017,UGA_2017,90
+Uganda,Africa,UGA,2018,UGA_2018,92
+Uganda,Africa,UGA,2019,UGA_2019,92
+Uganda,Africa,UGA,2020,UGA_2020,89
+United Arab Emirates,Asia,ARE,2010,ARE_2010,94
+United Arab Emirates,Asia,ARE,2011,ARE_2011,95
+United Arab Emirates,Asia,ARE,2012,ARE_2012,96
+United Arab Emirates,Asia,ARE,2013,ARE_2013,98
+United Arab Emirates,Asia,ARE,2014,ARE_2014,99
+United Arab Emirates,Asia,ARE,2015,ARE_2015,99
+United Arab Emirates,Asia,ARE,2016,ARE_2016,99
+United Arab Emirates,Asia,ARE,2017,ARE_2017,96
+United Arab Emirates,Asia,ARE,2018,ARE_2018,99
+United Arab Emirates,Asia,ARE,2019,ARE_2019,99
+United Arab Emirates,Asia,ARE,2020,ARE_2020,84
+United Kingdom,Europe,GBR,2010,GBR_2010,89
+United Kingdom,Europe,GBR,2011,GBR_2011,90
+United Kingdom,Europe,GBR,2012,GBR_2012,92
+United Kingdom,Europe,GBR,2013,GBR_2013,93
+United Kingdom,Europe,GBR,2014,GBR_2014,93
+United Kingdom,Europe,GBR,2015,GBR_2015,93
+United Kingdom,Europe,GBR,2016,GBR_2016,92
+United Kingdom,Europe,GBR,2017,GBR_2017,92
+United Kingdom,Europe,GBR,2018,GBR_2018,92
+United Kingdom,Europe,GBR,2019,GBR_2019,91
+United Kingdom,Europe,GBR,2020,GBR_2020,91
+United States,North America,USA,2008,USA_2008,93
+United States,North America,USA,2009,USA_2009,93
+United States,North America,USA,2010,USA_2010,93
+United States,North America,USA,2011,USA_2011,94
+United States,North America,USA,2012,USA_2012,92
+United States,North America,USA,2013,USA_2013,92
+United States,North America,USA,2014,USA_2014,93
+United States,North America,USA,2015,USA_2015,93
+United States,North America,USA,2016,USA_2016,93
+United States,North America,USA,2017,USA_2017,92
+United States,North America,USA,2018,USA_2018,92
+United States,North America,USA,2019,USA_2019,92
+United States,North America,USA,2020,USA_2020,82
+Uruguay,South America,URY,2010,URY_2010,91
+Uruguay,South America,URY,2011,URY_2011,92
+Uruguay,South America,URY,2012,URY_2012,93
+Uruguay,South America,URY,2013,URY_2013,93
+Uruguay,South America,URY,2014,URY_2014,95
+Uruguay,South America,URY,2015,URY_2015,94
+Uruguay,South America,URY,2016,URY_2016,94
+Uruguay,South America,URY,2017,URY_2017,94
+Uruguay,South America,URY,2018,URY_2018,93
+Uruguay,South America,URY,2019,URY_2019,95
+Uruguay,South America,URY,2020,URY_2020,94
+Uzbekistan,Asia,UZB,2017,UZB_2017,99
+Uzbekistan,Asia,UZB,2018,UZB_2018,96
+Uzbekistan,Asia,UZB,2019,UZB_2019,99
+Uzbekistan,Asia,UZB,2020,UZB_2020,93
+Venezuela,South America,VEN,2015,VEN_2015,24
+Venezuela,South America,VEN,2016,VEN_2016,7
+Venezuela,South America,VEN,2017,VEN_2017,0
+Venezuela,South America,VEN,2018,VEN_2018,0
+Venezuela,South America,VEN,2019,VEN_2019,0
+Venezuela,South America,VEN,2020,VEN_2020,0
+Western Africa,Africa,WA,2008,WA_2008,0
+Western Africa,Africa,WA,2009,WA_2009,0
+Western Africa,Africa,WA,2010,WA_2010,1
+Western Africa,Africa,WA,2011,WA_2011,6
+Western Africa,Africa,WA,2012,WA_2012,10
+Western Africa,Africa,WA,2013,WA_2013,13
+Western Africa,Africa,WA,2014,WA_2014,24
+Western Africa,Africa,WA,2015,WA_2015,51
+Western Africa,Africa,WA,2016,WA_2016,62
+Western Africa,Africa,WA,2017,WA_2017,66
+Western Africa,Africa,WA,2018,WA_2018,66
+Western Africa,Africa,WA,2019,WA_2019,68
+Western Africa,Africa,WA,2020,WA_2020,66
+Western Asia,Asia,WA,2008,WA_2008,1
+Western Asia,Asia,WA,2009,WA_2009,38
+Western Asia,Asia,WA,2010,WA_2010,38
+Western Asia,Asia,WA,2011,WA_2011,48
+Western Asia,Asia,WA,2012,WA_2012,52
+Western Asia,Asia,WA,2013,WA_2013,55
+Western Asia,Asia,WA,2014,WA_2014,57
+Western Asia,Asia,WA,2015,WA_2015,59
+Western Asia,Asia,WA,2016,WA_2016,60
+Western Asia,Asia,WA,2017,WA_2017,68
+Western Asia,Asia,WA,2018,WA_2018,67
+Western Asia,Asia,WA,2019,WA_2019,69
+Western Asia,Asia,WA,2020,WA_2020,60
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2008,WA_2008,1
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2009,WA_2009,41
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2010,WA_2010,42
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2011,WA_2011,49
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2012,WA_2012,54
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2013,WA_2013,57
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2014,WA_2014,57
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2015,WA_2015,57
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2016,WA_2016,58
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2017,WA_2017,66
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2018,WA_2018,65
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2019,WA_2019,67
+"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",Asia,WA,2020,WA_2020,57
+Western Europe,Europe,WE,2008,WE_2008,24
+Western Europe,Europe,WE,2009,WE_2009,39
+Western Europe,Europe,WE,2010,WE_2010,77
+Western Europe,Europe,WE,2011,WE_2011,78
+Western Europe,Europe,WE,2012,WE_2012,83
+Western Europe,Europe,WE,2013,WE_2013,84
+Western Europe,Europe,WE,2014,WE_2014,83
+Western Europe,Europe,WE,2015,WE_2015,84
+Western Europe,Europe,WE,2016,WE_2016,84
+Western Europe,Europe,WE,2017,WE_2017,84
+Western Europe,Europe,WE,2018,WE_2018,84
+Western Europe,Europe,WE,2019,WE_2019,84
+Western Europe,Europe,WE,2020,WE_2020,84
+Yemen,Asia,YEM,2011,YEM_2011,41
+Yemen,Asia,YEM,2012,YEM_2012,67
+Yemen,Asia,YEM,2013,YEM_2013,73
+Yemen,Asia,YEM,2014,YEM_2014,73
+Yemen,Asia,YEM,2015,YEM_2015,69
+Yemen,Asia,YEM,2016,YEM_2016,71
+Yemen,Asia,YEM,2017,YEM_2017,68
+Yemen,Asia,YEM,2018,YEM_2018,64
+Yemen,Asia,YEM,2019,YEM_2019,72
+Yemen,Asia,YEM,2020,YEM_2020,72
+Zambia,Africa,ZMB,2014,ZMB_2014,77
+Zambia,Africa,ZMB,2015,ZMB_2015,81
+Zambia,Africa,ZMB,2016,ZMB_2016,94
+Zambia,Africa,ZMB,2017,ZMB_2017,94
+Zambia,Africa,ZMB,2018,ZMB_2018,90
+Zambia,Africa,ZMB,2019,ZMB_2019,89
+Zambia,Africa,ZMB,2020,ZMB_2020,85
+Zimbabwe,Africa,ZWE,2012,ZWE_2012,21
+Zimbabwe,Africa,ZWE,2013,ZWE_2013,95
+Zimbabwe,Africa,ZWE,2014,ZWE_2014,91
+Zimbabwe,Africa,ZWE,2015,ZWE_2015,87
+Zimbabwe,Africa,ZWE,2016,ZWE_2016,90
+Zimbabwe,Africa,ZWE,2017,ZWE_2017,89
+Zimbabwe,Africa,ZWE,2018,ZWE_2018,89
+Zimbabwe,Africa,ZWE,2019,ZWE_2019,90
+Zimbabwe,Africa,ZWE,2020,ZWE_2020,86

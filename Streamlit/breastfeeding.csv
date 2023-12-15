@@ -1,0 +1,528 @@
+Entity,Region,Code,Year,id,Exclusive breastfeeding percent
+Afghanistan,Asia,AFG,2015,AFG_2015,43.13
+Albania,Europe,ALB,2000,ALB_2000,6.27
+Albania,Europe,ALB,2005,ALB_2005,3.39
+Albania,Europe,ALB,2008,ALB_2008,37.14
+Albania,Europe,ALB,2017,ALB_2017,36.54
+Algeria,Africa,DZA,2000,DZA_2000,12.6
+Algeria,Africa,DZA,2006,DZA_2006,6.9
+Algeria,Africa,DZA,2012,DZA_2012,25.39
+Angola,Africa,AGO,2015,AGO_2015,37.38
+Argentina,South America,ARG,2011,ARG_2011,31.95
+Armenia,Europe,ARM,2000,ARM_2000,29.52
+Armenia,Europe,ARM,2005,ARM_2005,32.47
+Armenia,Europe,ARM,2010,ARM_2010,34.12
+Armenia,Europe,ARM,2015,ARM_2015,44.49
+Azerbaijan,Europe,AZE,2000,AZE_2000,6.49
+Azerbaijan,Europe,AZE,2006,AZE_2006,10.81
+Azerbaijan,Europe,AZE,2013,AZE_2013,12.1
+Bangladesh,Asia,BGD,1993,BGD_1993,46
+Bangladesh,Asia,BGD,1996,BGD_1996,45.2
+Bangladesh,Asia,BGD,2004,BGD_2004,42
+Bangladesh,Asia,BGD,2006,BGD_2006,37.24
+Bangladesh,Asia,BGD,2007,BGD_2007,42.93
+Bangladesh,Asia,BGD,2011,BGD_2011,64.09
+Bangladesh,Asia,BGD,2012,BGD_2012,55.9
+Bangladesh,Asia,BGD,2014,BGD_2014,55.29
+Barbados,North America,BRB,2012,BRB_2012,19.7
+Belarus,Europe,BLR,2005,BLR_2005,10.27
+Belarus,Europe,BLR,2012,BLR_2012,19.03
+Belize,North America,BLZ,2006,BLZ_2006,9.3
+Belize,North America,BLZ,2011,BLZ_2011,14.66
+Belize,North America,BLZ,2015,BLZ_2015,33.16
+Benin,Africa,BEN,1996,BEN_1996,10.1
+Benin,Africa,BEN,2001,BEN_2001,37.78
+Benin,Africa,BEN,2006,BEN_2006,42.25
+Benin,Africa,BEN,2011,BEN_2011,32.47
+Benin,Africa,BEN,2014,BEN_2014,41.37
+Benin,Africa,BEN,2018,BEN_2018,41.4
+Bhutan,Asia,BTN,2010,BTN_2010,48.7
+Bhutan,Asia,BTN,2015,BTN_2015,51.4
+Bolivia,South America,BOL,1989,BOL_1989,50.6
+Bolivia,South America,BOL,1993,BOL_1993,43.3
+Bolivia,South America,BOL,1998,BOL_1998,50.6
+Bolivia,South America,BOL,2000,BOL_2000,38.58
+Bolivia,South America,BOL,2003,BOL_2003,53.54
+Bolivia,South America,BOL,2008,BOL_2008,56.79
+Bolivia,South America,BOL,2012,BOL_2012,64.3
+Bolivia,South America,BOL,2016,BOL_2016,58.3
+Bosnia and Herzegovina,Europe,BIH,1999,BIH_1999,5.5
+Bosnia and Herzegovina,Europe,BIH,2006,BIH_2006,17.61
+Bosnia and Herzegovina,Europe,BIH,2011,BIH_2011,18.19
+Botswana,Africa,BWA,2007,BWA_2007,20.3
+Brazil,South America,BRA,1986,BRA_1986,2.6
+Brazil,South America,BRA,2006,BRA_2006,38.6
+Burkina Faso,Africa,BFA,1992,BFA_1992,9.2
+Burkina Faso,Africa,BFA,1998,BFA_1998,5.5
+Burkina Faso,Africa,BFA,2003,BFA_2003,18.28
+Burkina Faso,Africa,BFA,2006,BFA_2006,5.87
+Burkina Faso,Africa,BFA,2009,BFA_2009,16
+Burkina Faso,Africa,BFA,2010,BFA_2010,24.81
+Burkina Faso,Africa,BFA,2012,BFA_2012,38.2
+Burkina Faso,Africa,BFA,2013,BFA_2013,47.2
+Burkina Faso,Africa,BFA,2014,BFA_2014,50.1
+Burundi,Africa,BDI,1987,BDI_1987,77.4
+Burundi,Africa,BDI,2000,BDI_2000,59.22
+Burundi,Africa,BDI,2010,BDI_2010,69.28
+Burundi,Africa,BDI,2016,BDI_2016,82.33
+Cambodia,Asia,KHM,1998,KHM_1998,11.1
+Cambodia,Asia,KHM,2000,KHM_2000,10.82
+Cambodia,Asia,KHM,2005,KHM_2005,60.02
+Cambodia,Asia,KHM,2008,KHM_2008,65.9
+Cambodia,Asia,KHM,2010,KHM_2010,72.79
+Cambodia,Asia,KHM,2014,KHM_2014,65.21
+Cameroon,Africa,CMR,1991,CMR_1991,8.4
+Cameroon,Africa,CMR,1998,CMR_1998,12.2
+Cameroon,Africa,CMR,2004,CMR_2004,20.99
+Cameroon,Africa,CMR,2006,CMR_2006,21.11
+Cameroon,Africa,CMR,2011,CMR_2011,19.95
+Cameroon,Africa,CMR,2014,CMR_2014,28.03
+Cape Verde,Africa,CPV,1998,CPV_1998,38.9
+Cape Verde,Africa,CPV,2005,CPV_2005,59.6
+Central African Republic,Africa,CAF,1994,CAF_1994,3
+Central African Republic,Africa,CAF,2000,CAF_2000,16.48
+Central African Republic,Africa,CAF,2006,CAF_2006,22.77
+Central African Republic,Africa,CAF,2010,CAF_2010,32.98
+Chad,Africa,TCD,1996,TCD_1996,1.9
+Chad,Africa,TCD,2000,TCD_2000,10.11
+Chad,Africa,TCD,2004,TCD_2004,2.01
+Chad,Africa,TCD,2010,TCD_2010,3.21
+Chad,Africa,TCD,2014,TCD_2014,0.11
+China,Asia,CHN,2008,CHN_2008,27.6
+China,Asia,CHN,2013,CHN_2013,18.6
+Colombia,South America,COL,1986,COL_1986,15.6
+Colombia,South America,COL,1990,COL_1990,13.4
+Colombia,South America,COL,1995,COL_1995,11.5
+Colombia,South America,COL,2000,COL_2000,25.12
+Colombia,South America,COL,2004,COL_2004,46.8
+Comoros,Africa,COM,1996,COM_1996,3.2
+Comoros,Africa,COM,2000,COM_2000,10.19
+Comoros,Africa,COM,2012,COM_2012,11.43
+Congo,Africa,COG,2005,COG_2005,19.1
+Congo,Africa,COG,2011,COG_2011,20.15
+Congo,Africa,COG,2014,COG_2014,32.86
+Costa Rica,North America,CRI,2011,CRI_2011,32.54
+Cote d'Ivoire,Africa,CIV,1994,CIV_1994,3
+Cote d'Ivoire,Africa,CIV,1998,CIV_1998,3.5
+Cote d'Ivoire,Africa,CIV,2000,CIV_2000,8.54
+Cote d'Ivoire,Africa,CIV,2003,CIV_2003,5.4
+Cote d'Ivoire,Africa,CIV,2006,CIV_2006,4.19
+Cote d'Ivoire,Africa,CIV,2011,CIV_2011,11.8
+Cote d'Ivoire,Africa,CIV,2016,CIV_2016,23.13
+Croatia,Europe,HRV,1996,HRV_1996,23.5
+Cuba,North America,CUB,2000,CUB_2000,41.2
+Cuba,North America,CUB,2006,CUB_2006,26.36
+Cuba,North America,CUB,2010,CUB_2010,48.58
+Cuba,North America,CUB,2014,CUB_2014,32.83
+Democratic Republic of Congo,Africa,COD,1995,COD_1995,23.8
+Democratic Republic of Congo,Africa,COD,2001,COD_2001,23.82
+Democratic Republic of Congo,Africa,COD,2007,COD_2007,35.79
+Democratic Republic of Congo,Africa,COD,2010,COD_2010,36.38
+Democratic Republic of Congo,Africa,COD,2013,COD_2013,47.34
+Djibouti,Africa,DJI,2012,DJI_2012,12.4
+Dominican Republic,North America,DOM,1986,DOM_1986,11.1
+Dominican Republic,North America,DOM,1991,DOM_1991,11.2
+Dominican Republic,North America,DOM,1996,DOM_1996,18
+Dominican Republic,North America,DOM,1999,DOM_1999,15.1
+Dominican Republic,North America,DOM,2000,DOM_2000,11.04
+Dominican Republic,North America,DOM,2002,DOM_2002,9.94
+Dominican Republic,North America,DOM,2006,DOM_2006,4.1
+Dominican Republic,North America,DOM,2007,DOM_2007,7.14
+Dominican Republic,North America,DOM,2009,DOM_2009,8
+Dominican Republic,North America,DOM,2013,DOM_2013,6.75
+Dominican Republic,North America,DOM,2014,DOM_2014,4.56
+Ecuador,South America,ECU,1987,ECU_1987,25.9
+Ecuador,South America,ECU,1994,ECU_1994,28.6
+Ecuador,South America,ECU,1999,ECU_1999,34.8
+Ecuador,South America,ECU,2004,ECU_2004,39.6
+Egypt,Africa,EGY,1992,EGY_1992,61.4
+Egypt,Africa,EGY,1995,EGY_1995,56.3
+Egypt,Africa,EGY,2000,EGY_2000,56.06
+Egypt,Africa,EGY,2003,EGY_2003,30.4
+Egypt,Africa,EGY,2005,EGY_2005,41.13
+Egypt,Africa,EGY,2008,EGY_2008,52.83
+Egypt,Africa,EGY,2014,EGY_2014,39.54
+El Salvador,North America,SLV,1993,SLV_1993,14.9
+El Salvador,North America,SLV,1998,SLV_1998,15.6
+El Salvador,North America,SLV,2002,SLV_2002,24
+El Salvador,North America,SLV,2008,SLV_2008,31.4
+El Salvador,North America,SLV,2014,SLV_2014,46.73
+Equatorial Guinea,Africa,GNQ,2000,GNQ_2000,20.33
+Equatorial Guinea,Africa,GNQ,2011,GNQ_2011,7.4
+Eritrea,Africa,ERI,1995,ERI_1995,58.9
+Eritrea,Africa,ERI,2002,ERI_2002,52
+Eritrea,Africa,ERI,2010,ERI_2010,68.7
+Eswatini,Africa,SWZ,2000,SWZ_2000,22.02
+Eswatini,Africa,SWZ,2006,SWZ_2006,31.89
+Eswatini,Africa,SWZ,2008,SWZ_2008,32.7
+Eswatini,Africa,SWZ,2010,SWZ_2010,43.8
+Eswatini,Africa,SWZ,2014,SWZ_2014,63.82
+Ethiopia,Africa,ETH,2000,ETH_2000,54.12
+Ethiopia,Africa,ETH,2005,ETH_2005,48.76
+Ethiopia,Africa,ETH,2010,ETH_2010,51.96
+Ethiopia,Africa,ETH,2016,ETH_2016,56.52
+Fiji,Oceania,FJI,2004,FJI_2004,39.8
+Gabon,Africa,GAB,2000,GAB_2000,5.4
+Gabon,Africa,GAB,2012,GAB_2012,5.08
+Gambia,Africa,GMB,2000,GMB_2000,24.58
+Gambia,Africa,GMB,2005,GMB_2005,39.69
+Gambia,Africa,GMB,2010,GMB_2010,33.5
+Gambia,Africa,GMB,2013,GMB_2013,46.78
+Georgia,Europe,GEO,2005,GEO_2005,11.84
+Georgia,Europe,GEO,2009,GEO_2009,54.8
+Ghana,Africa,GHA,1988,GHA_1988,2.2
+Ghana,Africa,GHA,1993,GHA_1993,7.4
+Ghana,Africa,GHA,1998,GHA_1998,31.5
+Ghana,Africa,GHA,2003,GHA_2003,52.96
+Ghana,Africa,GHA,2006,GHA_2006,54.94
+Ghana,Africa,GHA,2008,GHA_2008,62.1
+Ghana,Africa,GHA,2011,GHA_2011,45.66
+Ghana,Africa,GHA,2014,GHA_2014,52.09
+Guatemala,North America,GTM,1995,GTM_1995,46.4
+Guatemala,North America,GTM,1998,GTM_1998,39.2
+Guatemala,North America,GTM,2002,GTM_2002,50.6
+Guatemala,North America,GTM,2008,GTM_2008,49.6
+Guatemala,North America,GTM,2014,GTM_2014,53.24
+Guinea,Africa,GIN,1999,GIN_1999,11.2
+Guinea,Africa,GIN,2003,GIN_2003,22.8
+Guinea,Africa,GIN,2005,GIN_2005,27
+Guinea,Africa,GIN,2012,GIN_2012,20.38
+Guinea,Africa,GIN,2016,GIN_2016,34.19
+Guinea-Bissau,Africa,GNB,2000,GNB_2000,27.53
+Guinea-Bissau,Africa,GNB,2006,GNB_2006,15.45
+Guinea-Bissau,Africa,GNB,2010,GNB_2010,38.3
+Guinea-Bissau,Africa,GNB,2014,GNB_2014,52.54
+Guyana,South America,GUY,2000,GUY_2000,10.36
+Guyana,South America,GUY,2006,GUY_2006,21.42
+Guyana,South America,GUY,2009,GUY_2009,31.29
+Guyana,South America,GUY,2014,GUY_2014,21.1
+Haiti,North America,HTI,1994,HTI_1994,2.5
+Haiti,North America,HTI,2000,HTI_2000,23.04
+Haiti,North America,HTI,2005,HTI_2005,40.53
+Haiti,North America,HTI,2012,HTI_2012,39.26
+Haiti,North America,HTI,2016,HTI_2016,39.88
+Honduras,North America,HND,2001,HND_2001,34.9
+Honduras,North America,HND,2005,HND_2005,28.67
+Honduras,North America,HND,2011,HND_2011,30.75
+India,Asia,IND,1992,IND_1992,46
+India,Asia,IND,1998,IND_1998,46.8
+India,Asia,IND,2005,IND_2005,46.36
+India,Asia,IND,2015,IND_2015,54.87
+Indonesia,Asia,IDN,1991,IDN_1991,46.8
+Indonesia,Asia,IDN,1994,IDN_1994,37.3
+Indonesia,Asia,IDN,1997,IDN_1997,43
+Indonesia,Asia,IDN,2002,IDN_2002,38.7
+Indonesia,Asia,IDN,2007,IDN_2007,31.23
+Indonesia,Asia,IDN,2012,IDN_2012,40.93
+Iran,Asia,IRN,2000,IRN_2000,44.1
+Iran,Asia,IRN,2010,IRN_2010,53.1
+Iraq,Asia,IRQ,2000,IRQ_2000,11.65
+Iraq,Asia,IRQ,2006,IRQ_2006,25.38
+Iraq,Asia,IRQ,2011,IRQ_2011,19.42
+Iraq,Asia,IRQ,2018,IRQ_2018,25.82
+Jamaica,North America,JAM,2005,JAM_2005,15.18
+Jamaica,North America,JAM,2011,JAM_2011,23.78
+Jordan,Asia,JOR,1990,JOR_1990,38.6
+Jordan,Asia,JOR,1997,JOR_1997,11
+Jordan,Asia,JOR,2002,JOR_2002,26.7
+Jordan,Asia,JOR,2007,JOR_2007,21.76
+Jordan,Asia,JOR,2012,JOR_2012,22.68
+Jordan,Asia,JOR,2017,JOR_2017,25.4
+Kazakhstan,Asia,KAZ,1995,KAZ_1995,9.6
+Kazakhstan,Asia,KAZ,1999,KAZ_1999,35.8
+Kazakhstan,Asia,KAZ,2006,KAZ_2006,16.31
+Kazakhstan,Asia,KAZ,2010,KAZ_2010,31.8
+Kazakhstan,Asia,KAZ,2015,KAZ_2015,37.77
+Kenya,Africa,KEN,1989,KEN_1989,23
+Kenya,Africa,KEN,1993,KEN_1993,17
+Kenya,Africa,KEN,1998,KEN_1998,12.6
+Kenya,Africa,KEN,2000,KEN_2000,13.78
+Kenya,Africa,KEN,2003,KEN_2003,12.2
+Kenya,Africa,KEN,2008,KEN_2008,31.88
+Kenya,Africa,KEN,2014,KEN_2014,61.39
+Kiribati,Oceania,KIR,2009,KIR_2009,69
+Kyrgyzstan,Asia,KGZ,1997,KGZ_1997,24
+Kyrgyzstan,Asia,KGZ,2005,KGZ_2005,35.6
+Kyrgyzstan,Asia,KGZ,2012,KGZ_2012,55.99
+Kyrgyzstan,Asia,KGZ,2014,KGZ_2014,40.89
+Laos,Asia,LAO,2000,LAO_2000,18.78
+Laos,Asia,LAO,2006,LAO_2006,26.66
+Laos,Asia,LAO,2011,LAO_2011,39.68
+Laos,Asia,LAO,2017,LAO_2017,44.38
+Lesotho,Africa,LSO,1996,LSO_1996,16.3
+Lesotho,Africa,LSO,2000,LSO_2000,14.17
+Lesotho,Africa,LSO,2004,LSO_2004,36.4
+Lesotho,Africa,LSO,2009,LSO_2009,52.89
+Lesotho,Africa,LSO,2014,LSO_2014,66.85
+Liberia,Africa,LBR,1986,LBR_1986,12.6
+Liberia,Africa,LBR,1999,LBR_1999,35.4
+Liberia,Africa,LBR,2006,LBR_2006,27.8
+Liberia,Africa,LBR,2013,LBR_2013,54.58
+Madagascar,Africa,MDG,1992,MDG_1992,49.4
+Madagascar,Africa,MDG,1997,MDG_1997,47.9
+Madagascar,Africa,MDG,2000,MDG_2000,40.68
+Madagascar,Africa,MDG,2003,MDG_2003,67.17
+Madagascar,Africa,MDG,2008,MDG_2008,50.11
+Madagascar,Africa,MDG,2012,MDG_2012,41.9
+Malawi,Africa,MWI,2000,MWI_2000,44.05
+Malawi,Africa,MWI,2004,MWI_2004,52.31
+Malawi,Africa,MWI,2006,MWI_2006,56.72
+Malawi,Africa,MWI,2010,MWI_2010,70.81
+Malawi,Africa,MWI,2013,MWI_2013,68.99
+Malawi,Africa,MWI,2015,MWI_2015,59.44
+Malaysia,Asia,MYS,1996,MYS_1996,29
+Malaysia,Asia,MYS,2016,MYS_2016,40.3
+Maldives,Asia,MDV,2009,MDV_2009,45.3
+Mali,Africa,MLI,1987,MLI_1987,7
+Mali,Africa,MLI,1995,MLI_1995,8.4
+Mali,Africa,MLI,2001,MLI_2001,25.1
+Mali,Africa,MLI,2006,MLI_2006,33.42
+Mali,Africa,MLI,2009,MLI_2009,20.16
+Mali,Africa,MLI,2015,MLI_2015,31.47
+Mali,Africa,MLI,2017,MLI_2017,37.3
+Marshall Islands,Oceania,MHL,2007,MHL_2007,27.3
+Marshall Islands,Oceania,MHL,2017,MHL_2017,42.3
+Mauritania,Africa,MRT,2000,MRT_2000,20.2
+Mauritania,Africa,MRT,2007,MRT_2007,11.17
+Mauritania,Africa,MRT,2011,MRT_2011,26.65
+Mauritania,Africa,MRT,2015,MRT_2015,41.15
+Mexico,North America,MEX,1987,MEX_1987,27.9
+Mexico,North America,MEX,1998,MEX_1998,20.3
+Mexico,North America,MEX,2011,MEX_2011,14.4
+Mexico,North America,MEX,2015,MEX_2015,30.14
+Moldova,Europe,MDA,2005,MDA_2005,43.61
+Moldova,Europe,MDA,2012,MDA_2012,36.37
+Mongolia,Asia,MNG,2000,MNG_2000,47.79
+Mongolia,Asia,MNG,2005,MNG_2005,56.66
+Mongolia,Asia,MNG,2010,MNG_2010,65.68
+Mongolia,Asia,MNG,2013,MNG_2013,45.95
+Mongolia,Asia,MNG,2016,MNG_2016,58.3
+Montenegro,Europe,MNE,2005,MNE_2005,19.3
+Montenegro,Europe,MNE,2013,MNE_2013,16.78
+Morocco,Africa,MAR,1987,MAR_1987,36.7
+Morocco,Africa,MAR,1992,MAR_1992,54.5
+Morocco,Africa,MAR,1995,MAR_1995,24.8
+Morocco,Africa,MAR,2003,MAR_2003,30.99
+Morocco,Africa,MAR,2010,MAR_2010,27.8
+Mozambique,Africa,MOZ,1997,MOZ_1997,30.3
+Mozambique,Africa,MOZ,2003,MOZ_2003,28.71
+Mozambique,Africa,MOZ,2008,MOZ_2008,36.69
+Mozambique,Africa,MOZ,2011,MOZ_2011,40.01
+Mozambique,Africa,MOZ,2013,MOZ_2013,41
+Myanmar,Asia,MMR,2000,MMR_2000,10.48
+Myanmar,Asia,MMR,2009,MMR_2009,23.6
+Myanmar,Asia,MMR,2015,MMR_2015,51.24
+Namibia,Africa,NAM,1992,NAM_1992,17.1
+Namibia,Africa,NAM,2000,NAM_2000,16.6
+Namibia,Africa,NAM,2006,NAM_2006,22.09
+Namibia,Africa,NAM,2013,NAM_2013,48.32
+Nauru,Oceania,NRU,2007,NRU_2007,67.2
+Nepal,Asia,NPL,1996,NPL_1996,74.8
+Nepal,Asia,NPL,2001,NPL_2001,68.33
+Nepal,Asia,NPL,2006,NPL_2006,53.24
+Nepal,Asia,NPL,2011,NPL_2011,69.65
+Nepal,Asia,NPL,2014,NPL_2014,56.68
+Nepal,Asia,NPL,2016,NPL_2016,65.16
+Nicaragua,North America,NIC,1997,NIC_1997,21.9
+Nicaragua,North America,NIC,2001,NIC_2001,30.95
+Nicaragua,North America,NIC,2006,NIC_2006,30.6
+Nicaragua,North America,NIC,2011,NIC_2011,31.7
+Niger,Africa,NER,1992,NER_1992,2
+Niger,Africa,NER,1996,NER_1996,1.2
+Niger,Africa,NER,1998,NER_1998,0.8
+Niger,Africa,NER,2000,NER_2000,1.14
+Niger,Africa,NER,2006,NER_2006,8.48
+Niger,Africa,NER,2007,NER_2007,9
+Niger,Africa,NER,2008,NER_2008,4.4
+Niger,Africa,NER,2009,NER_2009,9.9
+Niger,Africa,NER,2010,NER_2010,26.9
+Niger,Africa,NER,2012,NER_2012,23.25
+Nigeria,Africa,NGA,1990,NGA_1990,1.7
+Nigeria,Africa,NGA,2000,NGA_2000,15.4
+Nigeria,Africa,NGA,2003,NGA_2003,15.63
+Nigeria,Africa,NGA,2007,NGA_2007,11.49
+Nigeria,Africa,NGA,2008,NGA_2008,12.54
+Nigeria,Africa,NGA,2011,NGA_2011,14.66
+Nigeria,Africa,NGA,2013,NGA_2013,16.94
+Nigeria,Africa,NGA,2016,NGA_2016,23.33
+North Korea,Asia,PRK,2004,PRK_2004,65.1
+North Korea,Asia,PRK,2012,PRK_2012,68.9
+North Korea,Asia,PRK,2017,PRK_2017,71.4
+North Macedonia,Europe,MKD,2005,MKD_2005,16.16
+North Macedonia,Europe,MKD,2011,MKD_2011,23.02
+Oman,Asia,OMN,2014,OMN_2014,32.8
+Pakistan,Asia,PAK,1990,PAK_1990,33.2
+Pakistan,Asia,PAK,2006,PAK_2006,37.03
+Pakistan,Asia,PAK,2013,PAK_2013,37.75
+Pakistan,Asia,PAK,2018,PAK_2018,47.47
+Palestine,Asia,PSE,2006,PSE_2006,24.8
+Palestine,Asia,PSE,2010,PSE_2010,28.72
+Palestine,Asia,PSE,2014,PSE_2014,38.14
+Panama,North America,PAN,1996,PAN_1996,25
+Panama,North America,PAN,2013,PAN_2013,21.46
+Papua New Guinea,Oceania,PNG,1996,PNG_1996,58.8
+Papua New Guinea,Oceania,PNG,2006,PNG_2006,56.1
+Paraguay,South America,PRY,1990,PRY_1990,8.7
+Paraguay,South America,PRY,2004,PRY_2004,21.9
+Paraguay,South America,PRY,2008,PRY_2008,24.4
+Paraguay,South America,PRY,2016,PRY_2016,29.59
+Peru,South America,PER,1986,PER_1986,28
+Peru,South America,PER,1991,PER_1991,48
+Peru,South America,PER,1996,PER_1996,53
+Peru,South America,PER,2000,PER_2000,66.58
+Peru,South America,PER,2003,PER_2003,63.3
+Peru,South America,PER,2007,PER_2007,66.48
+Peru,South America,PER,2009,PER_2009,68.26
+Peru,South America,PER,2010,PER_2010,68.28
+Peru,South America,PER,2011,PER_2011,70.09
+Peru,South America,PER,2012,PER_2012,67.41
+Peru,South America,PER,2013,PER_2013,72.3
+Peru,South America,PER,2014,PER_2014,68.4
+Peru,South America,PER,2015,PER_2015,65.2
+Peru,South America,PER,2016,PER_2016,69.8
+Peru,South America,PER,2017,PER_2017,64.2
+Philippines,Asia,PHL,1993,PHL_1993,28.9
+Philippines,Asia,PHL,1998,PHL_1998,37.5
+Philippines,Asia,PHL,2003,PHL_2003,34.02
+Philippines,Asia,PHL,2008,PHL_2008,32.97
+Qatar,Asia,QAT,2012,QAT_2012,29.33
+Romania,Europe,ROU,2004,ROU_2004,15.8
+Rwanda,Africa,RWA,1992,RWA_1992,85.3
+Rwanda,Africa,RWA,2000,RWA_2000,83.02
+Rwanda,Africa,RWA,2005,RWA_2005,88.4
+Rwanda,Africa,RWA,2010,RWA_2010,83.85
+Rwanda,Africa,RWA,2014,RWA_2014,86.93
+Saint Lucia,North America,LCA,2012,LCA_2012,3.5
+Samoa,Oceania,WSM,2009,WSM_2009,51.3
+Samoa,Oceania,WSM,2014,WSM_2014,70.3
+Sao Tome and Principe,Africa,STP,2000,STP_2000,53.07
+Sao Tome and Principe,Africa,STP,2006,STP_2006,60.4
+Sao Tome and Principe,Africa,STP,2008,STP_2008,50.27
+Sao Tome and Principe,Africa,STP,2014,STP_2014,71.72
+Senegal,Africa,SEN,1986,SEN_1986,4.6
+Senegal,Africa,SEN,1992,SEN_1992,5
+Senegal,Africa,SEN,1997,SEN_1997,10.7
+Senegal,Africa,SEN,2005,SEN_2005,30.87
+Senegal,Africa,SEN,2010,SEN_2010,38.97
+Senegal,Africa,SEN,2012,SEN_2012,37.48
+Senegal,Africa,SEN,2014,SEN_2014,32.39
+Senegal,Africa,SEN,2015,SEN_2015,33.33
+Senegal,Africa,SEN,2016,SEN_2016,36.43
+Senegal,Africa,SEN,2017,SEN_2017,42.09
+Serbia,Europe,SRB,2005,SRB_2005,14.47
+Serbia,Europe,SRB,2010,SRB_2010,13.44
+Serbia,Europe,SRB,2014,SRB_2014,12.84
+Sierra Leone,Africa,SLE,2000,SLE_2000,2.81
+Sierra Leone,Africa,SLE,2005,SLE_2005,8.39
+Sierra Leone,Africa,SLE,2008,SLE_2008,10.4
+Sierra Leone,Africa,SLE,2010,SLE_2010,31.16
+Sierra Leone,Africa,SLE,2013,SLE_2013,31.4
+Sierra Leone,Africa,SLE,2017,SLE_2017,47.16
+Solomon Islands,Oceania,SLB,2006,SLB_2006,73.7
+Solomon Islands,Oceania,SLB,2015,SLB_2015,76.2
+Somalia,Africa,SOM,2000,SOM_2000,9
+Somalia,Africa,SOM,2006,SOM_2006,9.06
+Somalia,Africa,SOM,2009,SOM_2009,5.3
+South Africa,Africa,ZAF,1998,ZAF_1998,6.9
+South Africa,Africa,ZAF,2003,ZAF_2003,8.3
+South Africa,Africa,ZAF,2016,ZAF_2016,31.61
+South Sudan,Africa,SSD,2010,SSD_2010,44.54
+Sri Lanka,Asia,LKA,1987,LKA_1987,10.2
+Sri Lanka,Asia,LKA,1993,LKA_1993,17.1
+Sri Lanka,Asia,LKA,2000,LKA_2000,52.6
+Sri Lanka,Asia,LKA,2006,LKA_2006,75.8
+Sri Lanka,Asia,LKA,2016,LKA_2016,82
+Sudan,Africa,SDN,2010,SDN_2010,40.97
+Sudan,Africa,SDN,2014,SDN_2014,54.6
+Suriname,South America,SUR,1999,SUR_1999,4.72
+Suriname,South America,SUR,2006,SUR_2006,1.73
+Suriname,South America,SUR,2010,SUR_2010,2.77
+Syria,Asia,SYR,2006,SYR_2006,28.46
+Syria,Asia,SYR,2009,SYR_2009,42.6
+Tajikistan,Asia,TJK,2000,TJK_2000,14.17
+Tajikistan,Asia,TJK,2005,TJK_2005,24.94
+Tajikistan,Asia,TJK,2012,TJK_2012,32.59
+Tajikistan,Asia,TJK,2017,TJK_2017,35.8
+Tanzania,Africa,TZA,1991,TZA_1991,25.5
+Tanzania,Africa,TZA,1996,TZA_1996,29
+Tanzania,Africa,TZA,1999,TZA_1999,31.8
+Tanzania,Africa,TZA,2004,TZA_2004,41.3
+Tanzania,Africa,TZA,2009,TZA_2009,48.75
+Tanzania,Africa,TZA,2014,TZA_2014,41.1
+Tanzania,Africa,TZA,2015,TZA_2015,59.05
+Thailand,Asia,THA,1987,THA_1987,5.3
+Thailand,Asia,THA,1995,THA_1995,3.6
+Thailand,Asia,THA,2005,THA_2005,5.35
+Thailand,Asia,THA,2009,THA_2009,15.1
+Thailand,Asia,THA,2012,THA_2012,12.26
+Thailand,Asia,THA,2015,THA_2015,23.04
+Timor,Asia,TLS,2003,TLS_2003,30.7
+Timor,Asia,TLS,2009,TLS_2009,50.78
+Timor,Asia,TLS,2013,TLS_2013,62.3
+Timor,Asia,TLS,2016,TLS_2016,50.17
+Togo,Africa,TGO,1988,TGO_1988,13.2
+Togo,Africa,TGO,1998,TGO_1998,10.5
+Togo,Africa,TGO,2000,TGO_2000,17.41
+Togo,Africa,TGO,2006,TGO_2006,28.59
+Togo,Africa,TGO,2008,TGO_2008,48.1
+Togo,Africa,TGO,2010,TGO_2010,62.08
+Togo,Africa,TGO,2013,TGO_2013,57.18
+Tonga,Oceania,TON,2012,TON_2012,52.2
+Trinidad and Tobago,North America,TTO,2000,TTO_2000,2.3
+Trinidad and Tobago,North America,TTO,2006,TTO_2006,11.7
+Tunisia,Africa,TUN,1988,TUN_1988,18
+Tunisia,Africa,TUN,2006,TUN_2006,6.2
+Tunisia,Africa,TUN,2011,TUN_2011,8.49
+Turkey,Asia,TUR,1993,TUR_1993,10.7
+Turkey,Asia,TUR,1998,TUR_1998,7.1
+Turkey,Asia,TUR,2003,TUR_2003,20.8
+Turkey,Asia,TUR,2008,TUR_2008,41.6
+Turkey,Asia,TUR,2013,TUR_2013,30.1
+Turkmenistan,Asia,TKM,2000,TKM_2000,12.1
+Turkmenistan,Asia,TKM,2006,TKM_2006,10.87
+Turkmenistan,Asia,TKM,2015,TKM_2015,58.26
+Tuvalu,Oceania,TUV,2007,TUV_2007,34.7
+Uganda,Africa,UGA,1988,UGA_1988,67.6
+Uganda,Africa,UGA,1995,UGA_1995,57.4
+Uganda,Africa,UGA,2000,UGA_2000,62.45
+Uganda,Africa,UGA,2006,UGA_2006,59.02
+Uganda,Africa,UGA,2011,UGA_2011,62.33
+Uganda,Africa,UGA,2016,UGA_2016,65.46
+Ukraine,Europe,UKR,2005,UKR_2005,5.99
+Ukraine,Europe,UKR,2007,UKR_2007,16.11
+Ukraine,Europe,UKR,2012,UKR_2012,19.73
+United States,North America,USA,2010,USA_2010,23.26
+United States,North America,USA,2012,USA_2012,25.51
+United States,North America,USA,2014,USA_2014,26.43
+United States,North America,USA,2016,USA_2016,34.7
+Uzbekistan,Asia,UZB,1996,UZB_1996,2.5
+Uzbekistan,Asia,UZB,2000,UZB_2000,13.38
+Uzbekistan,Asia,UZB,2002,UZB_2002,18.9
+Uzbekistan,Asia,UZB,2006,UZB_2006,23.78
+Vanuatu,Oceania,VUT,2007,VUT_2007,39.46
+Vanuatu,Oceania,VUT,2013,VUT_2013,72.6
+Venezuela,South America,VEN,1998,VEN_1998,7.1
+Vietnam,Asia,VNM,1997,VNM_1997,15.7
+Vietnam,Asia,VNM,2000,VNM_2000,21.98
+Vietnam,Asia,VNM,2002,VNM_2002,15.53
+Vietnam,Asia,VNM,2006,VNM_2006,16.14
+Vietnam,Asia,VNM,2010,VNM_2010,17
+Vietnam,Asia,VNM,2013,VNM_2013,24
+Yemen,Asia,YEM,1991,YEM_1991,13.1
+Yemen,Asia,YEM,1997,YEM_1997,17.8
+Yemen,Asia,YEM,2003,YEM_2003,11.5
+Yemen,Asia,YEM,2013,YEM_2013,9.7
+Zambia,Africa,ZMB,1992,ZMB_1992,10.2
+Zambia,Africa,ZMB,1996,ZMB_1996,18.8
+Zambia,Africa,ZMB,1999,ZMB_1999,18.54
+Zambia,Africa,ZMB,2001,ZMB_2001,39.7
+Zambia,Africa,ZMB,2007,ZMB_2007,59.87
+Zambia,Africa,ZMB,2013,ZMB_2013,72.02
+Zimbabwe,Africa,ZWE,1988,ZWE_1988,8.9
+Zimbabwe,Africa,ZWE,1994,ZWE_1994,11.3
+Zimbabwe,Africa,ZWE,1999,ZWE_1999,31.69
+Zimbabwe,Africa,ZWE,2005,ZWE_2005,21.69
+Zimbabwe,Africa,ZWE,2009,ZWE_2009,25.94
+Zimbabwe,Africa,ZWE,2010,ZWE_2010,31.3
+Zimbabwe,Africa,ZWE,2014,ZWE_2014,40.29
+Zimbabwe,Africa,ZWE,2015,ZWE_2015,47.13
