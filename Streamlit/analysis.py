@@ -21,7 +21,7 @@ vaccine=pd.read_csv(os.path.join(os.getcwd(),"vaccine.csv"))
 #layout 
 
 st.set_page_config(page_title="Pneumonia",layout="wide")
-st.title("Exploratory Analysis of Pneumonia, By [Ahmed Ramadan](https://www.linkedin.com/in/ahmed-ramadan-18b873230/)")
+st.title("Exploratory Analysis of Pneumonia")
 
 st.header("Some inforamtion of Pneumonia : ")
 image = Image.open("_تنزيل.jpeg")
