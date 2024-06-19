@@ -4,9 +4,12 @@ import numpy as np
 import streamlit as st
 from PIL import Image
 import pickle
-
-
-model = pickle.load(open("model.pkl", "rb"))
+#load preprocessor and model
+import os
+os.chdir(r"/mount/src/Pneumonia/streamlit")
+import _pickle as cPickle
+with open('model', "rb") as input_file:
+    model = cPickle.load(input_file)
 
 
 # function to load image
